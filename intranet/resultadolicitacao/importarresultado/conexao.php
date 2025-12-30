@@ -26,5 +26,7 @@
 	
 	// Ajusta os caracteres especiais
 	mysql_query("SET NAMES 'utf8'");
+
+	
 	
 ?>

@@ -32,9 +32,7 @@
 	                    <tr>                    
 	                      <th>Código</th>
 	                      <th>Descrição</th> 
-	                       <th>Unidade</th>  
-	                        <th>Cód BR</th>  
-	                         <th>Cód Unid.</th>                        
+	                       <th>Unidade</th>  	                                           
 	                      <th>Ações</th>
 	                    </tr>
 	                </thead>  
@@ -53,8 +51,7 @@
 		                          <td><?php echo $row['codprod']; ?></td>
 		                          <td><?php echo $row['descricao']; ?></td> 
 		                           <td><?php echo $row['unidade']; ?></td>    
-		                           <td><?php echo $row['codigobr']; ?></td>   
-		                           <td><?php echo $row['codigounidade']; ?></td>                         
+		                                               
 		                          <td>
 		                             <a title="Editar registro" class="btn btn-warning" style="font-size:10px;" href="editar.php?id=<?php echo $row['codprod'];?>">
 		                              <span class="fas fa-edit"></span>

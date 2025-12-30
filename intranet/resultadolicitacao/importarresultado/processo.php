@@ -23,8 +23,8 @@ foreach ($dados as $linha) {
 
 	$item =$valor[0];
 	$codprod=$valor[1];
-	$descricaoprod=utf8_encode($valor[2]);	
-	$marca=utf8_encode($valor[3]);
+	$descricaoprod=$valor[2];	
+	$marca=$valor[3];
 	$quantidade=$valor[4];
 	$vlrunitario = str_replace(',', '.', $valor[5]);
 	$vlrtotal = str_replace(',', '.', $valor[6]);

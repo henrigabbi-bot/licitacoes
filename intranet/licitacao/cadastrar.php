@@ -11,6 +11,8 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 		
 	</head>
 	<body>
@@ -20,12 +22,28 @@
 			// Verifica se o usuário está logado
 			include("cabecalho.php"); ?>
 		<main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
-	        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-		        <h1 class="h2">Cadastrar Licitação</h1>	            
-		    <div class="btn-group mr-2">		              
-			        <a class="btn btn-primary" href="index.php" role="button">Voltar</a>
-			    </div>        
-			</div>          		
+
+	        <div class="d-flex justify-content-between align-items-center flex-wrap pt-3 pb-2 mb-3 border-bottom">
+
+    			<!-- Título e descrição -->
+				<div>
+					<h3 class="mb-1">
+						<i class="fa fa-file-alt me-2"></i> Cadastro de Licitação
+					</h3>
+					<p class="text-muted mb-0">
+						Preencha os dados abaixo para cadastrar uma nova licitação.
+					</p>
+				</div>
+
+				<!-- Ações -->
+				<div class="btn-group">
+					<a href="index.php" class="btn btn-primary">
+						<i class="fa fa-arrow-left me-1"></i> Voltar
+					</a>
+				</div>
+
+				</div>
+
 			<div class="col-md-12">
 				<?php
 						// Verifica se o formulário foi enviado
@@ -45,8 +63,7 @@
 					$sql = "INSERT INTO licitacao(codlic,npregao,nprocesso,objeto,datahomologacao,cpf,cpf2)VALUES('$codlic','$npregao','$nprocesso','$objeto','$datahomologacao','$cpf','$cpf2');";	
 
 
-						
-								
+													
 											
 							if(mysql_query($sql)) {
 								// Mensagem de sucesso
@@ -105,12 +122,16 @@
 								<input type="text" name="nprocesso" id="nprocesso" maxlength="60" class="form-control" required value="<?php if(isset($_POST['nprocesso'])) { echo $_POST['nprocesso']; } ?>">
 
 							</div>
-							<div class="form-group">
-								<label for="objeto">Objeto</label>								
-								<textarea type="text" name="objeto" id="objeto" class="form-control" rows="4" required value="<?php if(isset($_POST['objeto'])) { echo $_POST['objeto']; } ?>"><?php if(isset($_POST['objeto'])){echo $_POST['objeto'];}?>
-								 </textarea>
-								
-							</div>	
+						
+
+						   <div class="form-group">
+							<label for="objeto">Objeto</label>	
+								<textarea name="objeto" id="objeto" class="form-control" rows="4" required><?php
+								if (isset($_POST['objeto'])) {
+									echo trim($_POST['objeto']);
+								}
+							?></textarea>
+							</div>
 
 
 							
@@ -164,7 +185,10 @@
 						</div>
 						</div>
 						</div>						
-							<input class="btn btn-success" type="submit">
+							
+
+										<button type="submit" class="btn btn-success"><i class="fa fa-save"></i> Salvar Licitação</button>
+
 						</form>					
 				</div>
 		</main>		

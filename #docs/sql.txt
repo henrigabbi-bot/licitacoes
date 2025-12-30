@@ -1,7 +1,8 @@
 
 
-CREATE DATABASE central;
-USE central;
+CREATE DATABASE licitacoes
+CHARACTER SET utf8mb4
+COLLATE utf8mb4_general_ci;
 
 CREATE TABLE admin (
 	id	  int		  auto_increment primary key,
@@ -16,15 +17,17 @@ CREATE TABLE pessoas (
 	rg varchar (10) not null,
 	tipo varchar (50) not null,
 	oab varchar (50)
-
-);
+)ENGINE=InnoDB
+CHARACTER SET utf8mb4
+COLLATE utf8mb4_general_ci;
 
 CREATE TABLE produto (			 
 	codprod	 int(6) auto_increment primary key,
 	descricao varchar(60) not null,	
-	unidade	 Varchar(30) not null
-	
-);
+	unidade	 Varchar(30) not null	
+)ENGINE=InnoDB
+CHARACTER SET utf8mb4
+COLLATE utf8mb4_general_ci;
 
 CREATE TABLE cliente (	 
 	id		int auto_increment primary key,
@@ -62,8 +65,6 @@ CREATE TABLE contratodeprograma (
 
 );
 
-
-
 CREATE TABLE fornecedor (	 
 	cnpj  varchar(14) primary key, 
 	nomefornecedor varchar (250) not null,
@@ -94,32 +95,10 @@ CREATE TABLE licitacao(
 			on update cascade,
 	foreign key(cpf2) 
 		references pessoas(cpf)			
-			on update cascade	
+			on update cascade
 	
 );
 
-
-
-CREATE TABLE previsaodeconsumo(
-	id		int auto_increment primary key,
-	idlic		int not null,
-	cnpj 		varchar(14),	
-	codprod 	int (6),	
-	quantidade 	int (7),
-	foreign key(idlic) 
-		references licitacao(codlic)
-			on delete cascade
-			on update cascade,
-	foreign key(codprod)
-		references produto(codprod)
-			on delete restrict
-			on update cascade,
-	foreign key(cnpj) 
-		references cliente(cnpj)
-			on delete restrict
-			on update cascade
-
-);
 
 CREATE TABLE pedido(	 	
 	codlic int,
@@ -177,11 +156,11 @@ CREATE TABLE pedidodecompra2(
 CREATE TABLE resultadolicitacao(
 	id	     int		 auto_increment primary key,
 	idlic  int not null,
-	item int not null,	
-	codprod int (6) not null,
+	item int not null,		
+	codprod INT NOT NULL,
 	marca varchar (250) not null,		
-	quantidade int (7) not null,
-	vlrunitario double not null,	
+	quantidade int not null,
+	vlrunitario DECIMAL(10,4) NOT NULL	
 	cnpj varchar(14) not null,	
 	foreign key(idlic) 
 		references licitacao(codlic)
@@ -197,268 +176,9 @@ CREATE TABLE resultadolicitacao(
 			on update cascade
 
 
-);
-
-CREATE TABLE notafiscal(			 
-	codlic  int not null,
-	pedido int(5) not null,
-	chavedeacesso VARCHAR(44) primary key,
-	numeronf int(10),	
-	cnpj varchar(14),
-	valornf double,	
-	foreign key(codlic) 
-		references licitacao(codlic)
-			on delete cascade
-			on update cascade,	
-	foreign key(cnpj) 
-		references cliente(cnpj)
-			on delete cascade
-			on update cascade
-);
-
-CREATE TABLE notafiscalfornecedor(			 
-	codlic  int not null,
-	pedido int(5) not null,
-	chavedeacesso VARCHAR(44) primary key,
-	numeronf int(10),	
-	cnpj varchar(14),
-	valornf double,	
-	foreign key(codlic) 
-		references licitacao(codlic)
-			on delete cascade
-			on update cascade	
-	
-);
-
-CREATE TABLE ITENSNF(
-	id int  auto_increment primary key,
-	codprod int (6),
-	quantidade int(7),
-	vlrunt double,	
-	vlrtotal double,
-	chavedeacesso VARCHAR(44),	
-	foreign key(codprod)
-		references produto(codprod)
-			on delete cascade
-			on update cascade,
-	foreign key(chavedeacesso)
-		references notafiscal(chavedeacesso)
-			on delete cascade
-			on update cascade
-);
-
-CREATE TABLE ITENSNFFORNECEDOR(
-	id int  auto_increment primary key,
-	codprod varchar(50),
-	descricao VARCHAR(250),
-	quantidade int(7),
-	vlrunt double,	
-	vlrtotal double,
-	chavedeacesso VARCHAR(44),	
-	foreign key(chavedeacesso)
-		references notafiscalfornecedor(chavedeacesso)
-			on delete cascade
-			on update cascade
-);
-
-CREATE TABLE itensnovos(
-	id	     int		 auto_increment primary key,
-	cnpj varchar(14),
-	nomecli varchar(200),
-	codprod int (6)
-
-);
-
-CREATE TABLE fracionamento(
-	id	     int		 auto_increment primary key,		
-	codprod int (6),	
-	embalagem int (7),	
-	foreign key(codprod)
-		references produto(codprod)
-			on delete cascade
-			on update cascade
-	
-);
-
-CREATE TABLE itensadquacao(
-	id	     int		 auto_increment primary key,
-	cnpj varchar(14),
-	nomecli varchar(200),
-	codprod int (6),
-	quantidade int(7),
-	foreign key(cnpj) 
-		references cliente(cnpj)
-			on delete cascade
-			on update cascade
-
-);
-
-CREATE TABLE nfsaida( 
-	chavedeacesso VARCHAR(44) primary key,
-	numeronf int(10),	
-	cnpj varchar(14),
-	data  date   not null,	
-	valornf double,		
-	foreign key(cnpj) 
-		references cliente(cnpj)
-			on delete cascade
-			on update cascade
-);
-
-CREATE TABLE nfdevolucao( 
-	chavedeacesso VARCHAR(44) primary key,
-	numeronf int(10),	
-	cnpj varchar(14),
-	data  date   not null,	
-	valornf double,		
-	foreign key(cnpj) 
-		references fornecedor(cnpj)
-			on delete cascade
-			on update cascade
-);
-
-CREATE TABLE nfentrada(	
-	chavedeacesso VARCHAR(44) primary key,
-	data  date   not null,	
-	numeronf int(10),	
-	cnpj varchar(14),
-	valornf double,
-	foreign key(cnpj) 
-		references fornecedor(cnpj)
-			on delete cascade
-			on update cascade	
-	
-);
-
-CREATE TABLE valordositensnopedido(
-	id	     int		 auto_increment primary key,
-	idlic  int not null,
-	pedido int,
-	cnpj varchar(14),		
-	codprod int (6),	
-	vlrunitario double,		
-	foreign key(idlic) 
-		references licitacao(codlic)
-			on delete cascade
-			on update cascade,
-			
-	foreign key(codprod)
-		references produto(codprod)
-			on delete cascade
-			on update cascade,		
-	
-	foreign key(cnpj) 
-		references cliente(cnpj)
-			on delete cascade
-			on update cascade
-	
-			
-	
-
-);
-
-
-CREATE TABLE bancodeprecos(	
-	codprod int (6) primary key,	
-	foreign key(codprod)
-		references produto(codprod)
-			on delete cascade
-			on update cascade
-	
-);
-
-
-CREATE TABLE pesquisa(
-	id	     int		 auto_increment primary key,		
-	codprod int (6),	
-	quantidade int (7),
-	unidade	 Varchar(30) not null,
-	vlrunitario double,		
-	foreign key(codprod)
-		references produto(codprod)
-			on delete cascade
-			on update cascade
-);
-
-CREATE TABLE desagio(
-	id	     int		 auto_increment primary key,
-	item int not null,	
-	codprod int (6) not null,
-	marca varchar (250) not null,		
-	quantidade int (7) not null,
-	vlrunitario double not null,	
-    vlreferencia double not null,	
-    desagio varchar (10)NOT NULL,
-    diferenca double not null,
-	cnpj varchar(14) not null,	
-	foreign key(codprod)
-		references produto(codprod)
-			on delete restrict
-			on update cascade,
-	foreign key(cnpj) 
-		references fornecedor(cnpj)
-			on delete restrict
-			on update cascade
-
-
-);
-
-CREATE TABLE motorista (	
-	cpf varchar(14) primary key, 
-	nome varchar(50) not null,	
-	rg varchar (10),	
-	cnpj varchar(14) not null,
-	foreign key(cnpj) 
-		references cliente(cnpj)
-
-);
-
-CREATE TABLE comparativo(	
-	codlic	 int  auto_increment primary key,
-	npregao varchar(10) not null,
-	nprocesso varchar(10) not null,
-	linkprocesso varchar(250) not null,
-	municipio varchar(60) not null,
-	datapublicacao    date	   not null,		
-	dataabertura   date	   not null,	
-	datahomologacao    date	   not null	
-		
-);
-
-CREATE TABLE itensprocesso(
-	id	     int		 auto_increment primary key,
-	codlic  int not null,		
-	codprod int (6),	
-	quantidade int (7),
-	vlrunitario double not null,
-	foreign key(codlic) 
-		references comparativo(codlic)
-			on delete cascade
-			on update cascade,
-	foreign key(codprod)
-		references produto(codprod)
-			on delete restrict
-			on update cascade
-	
-);
-
-CREATE TABLE itenslicitacao(
-	id	     int		 auto_increment primary key,
-	itemnumero int not null,
-	idlic  int not null,		
-	codprod int (6) not null,		
-	quantidade int (8) not null,	
-	vlrreferencia double not null,	
-	foreign key(idlic) 
-		references licitacao(codlic)
-			on delete cascade
-			on update cascade,
-	foreign key(codprod)
-		references produto(codprod)
-			on delete restrict
-			on update cascade
-
-);
+)ENGINE=InnoDB
+CHARACTER SET utf8mb4
+COLLATE utf8mb4_general_ci;
 
 
 CREATE TABLE processoadministrativo(	
