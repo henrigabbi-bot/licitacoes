@@ -1,0 +1,1220 @@
+1;Acido Acetilsalicílico 100mg -;4500000;Comprimido;0,0374
+2;Acido Acetilsalicílico 500mg -;10000;Comprimido;0,1300
+3;Acido Valpróico 250mg -;500000;Comprimido;0,2074
+4;Acido Valpróico 500mg -;800000;Comprimido;0,4484
+5;Acido Valpróico 50mg/ml, xpe, fr 100ml -;11000;Frasco;3,2400
+6;Acido Fólico 5mg -;550000;Comprimido;0,0399
+7;Vitamina Complexo B 2ml IM/IV -;11000;Ampola;1,0000
+8;Aminofilina 100mg -;160000;Comprimido;0,0770
+10;Amitriptilina, Cloridrato 25mg -;3200000;Comprimido;0,0562
+11;Amoxicilina 500mg -;550000;Cápsula;0,1557
+12;Amoxicilina 250mg/5ml, 60ml -;20000;Frasco;1,9000
+13;Ampicilina suspensão 50mg/ml  60ml -;235;Frasco;3,0900
+14;Ampicilina 500mg -;18690;Comprimido;0,3400
+15;Benzilpenicilina, Benzatina 1.200000 UI c/ agua -;10000;Ampola;5,3900
+16;Benzilpenicilina, Benzatina 600000UI c/ agua -;2000;Ampola;9,0000
+17;Benzilpenicilina Procaína 400000UI c/ agua -;885;Ampola;4,5917
+18;Biperideno 2mg -;750000;Comprimido;0,1966
+19;Escopolamina, Butilbrometo+Dipirona 4/500mg/ml inj -;15607;Ampola;10,0100
+20;Escopolamina, Butilbrometo+Dipirona 10/250mg -;300000;Comprimido;0,3284
+21;Escopolamina, Butilbrometo 10mg comprimido -;300000;Comprimido;0,4910
+22;Escopolamina, Butilbrometo 10mg/ml gotas 20ml -;4170;Frasco;6,9799
+23;Fenoterol, Bromidrato  5mg/ml 20ml -;7703;Frasco;5,5000
+24;Captopril 25mg -;1481030;Comprimido;0,0299
+26;Carbamazepina 200mg -;1955950;Comprimido;0,1923
+27;Fenitoína 50mg/ml 5ml IV/IM -;1210;Ampola;3,0900
+28;Carbamazepina 20mg/ml, susp oral 100ml -;11000;Frasco;8,5529
+29;Cetoconazol 20mg/g, creme tópico 30g -;4500;Bisnaga;3,0400
+30;Cetoconazol 200mg -;45000;Comprimido;0,2300
+31;Carbonato de Lítio 300mg -;1624800;Comprimido;0,2772
+32;Cefalexina 50mg/ml, pó sus oral, 60ml -;10000;Frasco;5,5500
+33;Cefalexina 500mg -;450000;Cápsula;0,3396
+34;Cimetidina 200mg -;130000;Comprimido;0,2839
+35;Loratadina 1mg/ml 100ml -;19000;Frasco;1,8999
+36;Clorpropamida 250mg -;15000;Comprimido;0,6000
+37;Dexametasona 0,1%, pomada 10g -;44000;Bisnaga;0,8000
+38;Dexametasona 2mg/ml 1ml IM/IV -;4760;Ampola;4,0000
+39;Dexclorfeniramina 0,4mg/ml, 100ml -;35120;Frasco;1,2000
+40;Diazepam 10mg -;1200000;Comprimido;0,0544
+41;Diazepam 5mg/ml 2ml IM/IV -;5510;Ampola;0,7458
+42;Diazepam 5mg -;549830;Comprimido;0,0500
+43;Diclofenaco Potássico 50mg -;256810;Comprimido;0,0600
+45;Dimenidrinato+Piridoxina+Glicose+Frutose inj 10ml -;6284;Ampola;2,6000
+46;Cinarizina 25mg -;55000;Comprimido;0,1800
+47;Digoxina 0,25mg -;600399;Comprimido;0,1150
+48;Dipirona 500mg/ml 2ml EV/IM -;20000;Ampola;0,6150
+49;Dipirona 500mg/ml, 10ml -;15000;Frasco;0,9199
+50;Dipirona 500mg -;2261400;Comprimido;0,0989
+51;Amiodarona 200mg -;600000;Comprimido;0,3449
+52;Flunarizina, Dicloridrato 10mg -;170000;Comprimido;0,0820
+56;Estrogenos conjugados 0,625mg c/ 28cp -;3000;Cartela;26,6691
+57;Acido Ascórbico 200mg/ml sol oral 20ml -;2500;Frasco;1,2800
+58;Fenitoína 100mg -;697570;Comprimido;0,1099
+59;Fenobarbital 100mg -;1000000;Comprimido;0,1411
+60;Fenobarbital 40mg/ml 20ml -;7190;Frasco;3,9899
+61;Furosemida 40mg -;3000000;Comprimido;0,0501
+62;Glibenclamida 5mg -;1600000;Comprimido;0,0237
+63;Haloperidol 5mg -;578488;Comprimido;0,2017
+64;Hidroclorotiazida 50mg -;487500;Comprimido;0,0563
+65;Hidróxido de Alumínio  300mg/5ml 100ml -;17514;Frasco;1,9000
+67;Imipramina 25mg -;600000;Comprimido;0,3313
+68;Levonogestrel+Etinilestradiol 0,15/0,03mg c/ 21cp -;8500;Cartela;1,7000
+69;Levomepromazina 4%, 20ml -;3855;Frasco;8,7000
+70;Levomepromazina 100mg -;150000;Comprimido;0,6890
+71;Mebendazol 100mg -;11792;Comprimido;0,2860
+72;Mebendazol 20mg/ml 30ml -;3500;Frasco;1,4000
+73;Metildopa 250mg -;350000;Comprimido;0,3380
+74;Metildopa 500mg -;200000;Comprimido;0,6525
+75;Metoclopramida 10mg -;453610;Comprimido;0,0690
+76;Metoclopramida 4mg/ml 10ml gts -;10763;Frasco;0,8999
+77;Metoclopramida 10mg/2ml -;15000;Ampola;0,5500
+78;Metronidazol 40mg/ml, susp oral 100ml -;1200;Frasco;5,9020
+79;Metronidazol 250mg -;234252;Comprimido;0,1000
+80;Metronidazol 100mg/g 50g c/10 aplic ginecológicos -;8000;Bisnaga;4,5000
+81;Neomicina+Bacitracina pomada 10g -;49830;Bisnaga;1,5109
+82;Nifedipino 10mg -;480000;Comprimido;0,1952
+83;Nifedipino 20 mg retard -;44460;Comprimido;0,1198
+84;Nistatina 25.000UI 60g c/mínimo 7 aplic ginecológicos;14378;Bisnaga;4,7500
+85;Paracetamol 200mg/ml 10ml -;15000;Frasco;0,8790
+86;Paracetamol 500mg -;2575956;Comprimido;0,0839
+87;Vitamina complexo B (B1,B2,B3,B5,B6) -;773150;Comprimido;0,0310
+88;Vitamina Complexo B, Sol oral, 20ml -;490;Frasco;2,7000
+89;Propranolol 40mg -;700000;Comprimido;0,0280
+90;Prednisona 5mg -;493180;Comprimido;0,0586
+91;Prednisona 20mg -;676210;Comprimido;0,1442
+92;Prometazina 25mg -;181080;Comprimido;0,1200
+94;Salbutamol 0,4mg/ml 100ml -;5435;Frasco;0,9800
+95;Salbutamol 100mcg/dose aerossol oral, 200 doses -;19140;Frasco;6,6238
+96;Sulfametoxazol+Trimetoprima 40mg/8mg/ml, 50ml l -;9123;Frasco;4,0000
+97;Sulfametoxazol+Trimetoprima 400+80mg -;288238;Comprimido;0,1500
+98;Sulfato Ferroso 25mg de Fe II/ml 30ml -;6000;Frasco;0,7799
+99;Sulfato Ferroso 40mg de Fe II -;650000;Comprimido;0,0310
+100;Sulfato Ferroso 250mg de Fe II -;67350;Comprimido;0,1700
+101;Piroxicam 20mg -;190000;Comprimido;0,1770
+103;Verapamil 80mg -;600000;Comprimido;0,0939
+104;Bronfeniramina 12mg+Fenilefrina 15mg cp -;12000;Comprimido;1,5245
+107;Lidocaína 2% gel sem vasoconstritor 30g -;3570;Bisnaga;2,0499
+108;Nifedipino 20mg -;194470;Comprimido;0,0400
+109;Isossorbida, Mononitrato 40mg -;187320;Comprimido;0,3400
+110;Glicose 25% inj 10ml -;700;Ampola;0,3942
+111;Tetraciclina 500mg -;2300;Cápsula;0,2400
+112;Ipratrópio, Brometo 0,25mg/ml 20ml -;11710;Frasco;0,6700
+113;Paracetamol 750mg -;860292;Comprimido;0,1109
+114;PolimixinaB+Neom+Fluocinolona+Lidocaína gt otol -;1630;Frasco;1,8200
+116;Captopril 50mg -;924990;Comprimido;0,1157
+117;Nistatina 100.000UI /ml susp. oral 50ml -;8364;Frasco;3,6500
+118;Metformina, Cloridrato 850mg -;2079750;Comprimido;0,0691
+119;Omeprazol 20mg -;5000000;Cápsula;0,0995
+120;Simeticona 40mg -;140500;Comprimido;0,0800
+121;Tioridazina 100mg -;4000;Comprimido;1,3300
+122;Isossorbida, Dinitrato 5mg sublingual -;29420;Comprimido;0,2490
+123;Carbocisteina 50mg/ml xpe adulto 100ml -;4020;Frasco;3,0000
+125;Isossorbida, Dinitrato 10mg -;7900;Comprimido;0,2831
+126;Clonidina, Cloridrato 0,150mg -;111790;Comprimido;0,2529
+127;Metformina, Cloridrato 500mg -;857270;Comprimido;0,0665
+128;Fluoxetina 20mg -;4500000;Cápsula;0,0720
+129;Clorpromazina 25mg -;430000;Comprimido;0,1922
+131;Levomepromazina 25mg -;220000;Comprimido;0,3521
+132;Iodeto de Potássio, 20mg/ml sol oral  100ml -;3500;Frasco;3,3000
+133;Enalapril, Maleato 5mg -;442000;Comprimido;0,0530
+134;Flunitrazepam 1mg -;5000;Comprimido;0,6196
+135;Enalapril, Maleato 10mg -;2800000;Comprimido;0,0287
+136;Enalapril, Maleato 20mg -;2136200;Comprimido;0,0538
+137;Norestisterona 0,35mg cartela c/35 -;370;Cartela;5,4400
+138;Haloperidol 2mg/1ml, sol oral 20ml -;4170;Frasco;3,2400
+139;Haloperidol, Decanoato 50mg/ml, 1ml -;8500;Ampola;5,0099
+140;Albendazol 40mg/ml, susp oral, 10ml -;21515;Frasco;0,7100
+141;Bromazepam 3mg -;550000;Comprimido;0,0750
+142;Sinvastatina 20mg -;3285510;Comprimido;0,0697
+145;Hidroclorotiazida 25mg -;3000000;Comprimido;0,0234
+146;Permetrina 10mg/ml,  loção, 60ml -;6317;Frasco;1,5800
+147;Amiodarona 100mg -;80000;Comprimido;0,3210
+148;Haloperidol 5mg/1ml, sol inj, 1ml -;2500;Ampola;2,5500
+149;Aminofilina 24mg/ml EV 10ml -;3000;Ampola;0,9727
+150;Bromazepam 6mg -;310000;Comprimido;0,1000
+151;Divalproato Sódico 250mg -;20000;Comprimido;0,4400
+152;Alopurinol 100mg -;330000;Comprimido;0,1200
+153;Paracetamol+Codeína 500mg/30mg -;937644;Comprimido;0,3698
+154;Ginkgo biloba 80mg -;381600;Comprimido;0,1775
+155;Divalproato Sódico 500mg -;30100;Comprimido;0,6999
+157;Salbutamol 2mg -;2500;Comprimido;0,2134
+158;Tramadol, Cloridrato 100mg/ml, 10ml gts -;600;Frasco;13,5000
+159;Diclofenaco Sódico 50mg -;324500;Comprimido;0,0564
+160;Oxcarbazepina 60mg/ml susp oral, 100ml -;1110;Frasco;25,2998
+161;Ambroxol, Cloridrato, 6mg/ml, xpe adulto, 100ml -;34810;Frasco;1,8500
+162;Ambroxol, Cloridrato, 3mg/ml xpe inf 100ml -;21010;Frasco;1,7800
+163;Oxibutinina, Cloridrato  5mg -;18000;Comprimido;0,7224
+164;Alopurinol 300mg -;300000;Comprimido;0,2400
+165;Citalopram 20mg -;1500000;Comprimido;0,1133
+166;Simeticona 75mg/1ml, 10ml -;12689;Frasco;1,3900
+169;Clonazepam 2mg -;456480;Comprimido;0,0460
+170;Miconazol 20 mg/g 80g c/14 aplic. ginecológicos -;5540;Bisnaga;6,0000
+171;Frutose+Vitamina B+Vitamina C Injetável 10ml -;7264;Ampola;7,3300
+172;Betametasona+Cetoconazol 20/0,64mg/g creme 30g -;1250;Bisnaga;5,8656
+173;Rifomicina sal sódico 10mg/ml spray -;3000;Frasco;3,4000
+174;Sulfassalazina 500mg -;3780;Comprimido;0,8538
+176;Diclofenaco Sódico 25mg/ml 3ml IM -;22160;Ampola;0,8300
+178;Permanganato de Potássio -;11960;Comprimido;0,1962
+179;Clomipramina 25mg -;181570;Comprimido;0,5871
+180;Clonazepam 0,5mg -;55000;Comprimido;0,0450
+181;Clonazepam 2,5mg/ml sol oral gts 20ml -;55000;Frasco;1,5403
+186;Sais para reidratação oral 27,9g sabor tradicional -;46762;Envelope;0,5900
+187;Azitromicina 500mg -;610987;Comprimido;0,6987
+188;Nitrofurantoína 100mg -;230000;Comprimido;0,1830
+189;Atenolol 25mg -;555930;Comprimido;0,0299
+190;Atenolol 50mg -;2001550;Comprimido;0,0563
+191;Doxazosina 2mg -;401850;Comprimido;0,0890
+192;Norfloxacino 400mg -;120000;Comprimido;0,3899
+193;Carbonato de Cálcio 500mg (CaElementar 200mg) - Com indicaçã;254500;Comprimido;0,0369
+194;Dexclorfeniramina 2mg -;436500;Comprimido;0,0459
+195;Cinarizina 75mg -;430000;Comprimido;0,2586
+196;Doxiciclina 100mg -;22000;Comprimido;0,1899
+198;Isossorbida, Mononitrato 20mg -;593000;Comprimido;0,1150
+199;Dexametasona+Tiamina+Piridox.+Cianocobalamina inj -;4000;Ampola;7,7999
+200;Cimetidina 150mg/ml 2ml IM/IV -;6000;Ampola;1,0005
+201;Prednisolona 3mg/ml solução oral 100ml -;18000;Frasco;7,0357
+202;Fluconazol 150mg -;100000;Comprimido;0,3499
+203;Metilfenidato, Cloridrato 10mg -;34840;Comprimido;0,3274
+204;Clomipramina 10mg -;10000;Comprimido;0,6000
+205;Clorpromazina  40mg/ml, sol oral, 20ml -;2180;Frasco;6,3100
+206;Diclofenaco gel 1%, 60g -;17509;Bisnaga;2,8500
+207;Carbamazepina 400mg -;117020;Comprimido;0,3999
+208;Prednisolona 1mg/1ml solução oral 100ml -;3500;Frasco;5,8900
+211;Lorazepan 2mg -;110000;Comprimido;0,0790
+212;Amitriptilina, Cloridrato 75mg -;120000;Comprimido;0,2077
+214;Fenoterol+Ipratrópio aerossol 0,02/0,05mcg/dose -;355;Frasco;13,0079
+215;Beclometasona 50mcg spray nasal 200 doses -;600;Frasco;16,0000
+216;Atropina, Sulfato 0,5mg/ml, amp 1ml -;1000;Ampola;2,0000
+220;Benzoato de benzila 25%, emulsão tópica 100ml -;1691;Frasco;4,3000
+221;Escopolamina, Butilbrometo+Dipirona 15ml gt -;11315;Frasco;6,2350
+222;Hidrocortisona 100mg IV/IM -;3000;Ampola;2,5000
+223;Hidrocortisona, Succinato Sódico 500mg IM/IV -;6245;Ampola;5,1500
+224;Baclofeno 10mg -;55750;Comprimido;0,1390
+225;Budesonida 32mcg/dose susp aquosa nasal, 120 doses -;14695;Frasco;10,1656
+226;Levodopa+Carbidopa 250/25mg -;254400;Comprimido;0,4927
+227;Formoterol+Budesonida 12/400mcg c/ 60 c/ dosador -;2000;Frasco;74,9500
+228;Levotiroxina Sódica 100mcg -;850000;Comprimido;0,0971
+229;Colagenase+Cloranfenicol pomada 30g -;4541;Bisnaga;8,4999
+231;Dexametasona 0,1%+Neomicina 0,35+Poli. B pomada -;90;Bisnaga;17,3000
+232;Dexametasona 4mg/ml 2,5ml IV/IM -;13210;Ampola;2,7600
+233;Dipirona+Prometazina+Adifenina 500/5/10mg/1,5ml gt -;600;Frasco;4,1000
+234;Fenobarbital 100mg/ml 2ml IM -;720;Ampola;2,0000
+236;Midazolam 15mg/3ml inj -;500;Ampola;7,9500
+237;Topiramato 25mg -;80000;Comprimido;0,1176
+240;Alendronato, Sódico 70mg -;225600;Comprimido;0,1829
+241;Medroxiprogesterona, Acetato 10mg -;2000;Comprimido;1,9175
+242;Carbocisteína 20mg/ml xpe infantil 80ml -;2945;Frasco;2,1000
+246;Clobazam 10mg -;42900;Comprimido;0,5685
+247;Eritromicina  250mg/5ml, 50ml -;120;Frasco;8,1200
+248;Nimesulida 100mg -;721200;Comprimido;0,0800
+249;Nimesulida 50mg/ml sol.oral,15ml -;3500;Frasco;1,4250
+251;Aciclovir 200mg -;181000;Comprimido;0,1549
+258;Amilorida+Hidroclorotiazida 5/50mg -;120000;Comprimido;0,1999
+259;Gabapentina 300mg -;88980;Comprimido;0,3000
+260;Piracetam 60mg/ml 110ml -;220;Frasco;12,1599
+261;Deltametrina loção  0,2mg/ml 100ml -;600;Frasco;5,0000
+262;Betametasona Diprop+Fosfat Dissódico 5/2/mg/ml inj -;29220;Ampola;2,2399
+263;Divalproato Sódico 125mg -;6300;Cápsula;0,8401
+264;Sulpirida 50mg -;51500;Comprimido;0,5749
+265;Simeticona+Homatropina 80/2,5mg/ml gts 20ml -;150;Frasco;9,8550
+267;Tansulosina , 0,4mg liberação prolongada -;10000;Comprimido;0,7900
+268;Clortalidona 25mg -;76068;Comprimido;0,1236
+269;Metotrexato 2,5mg -;49764;Comprimido;0,7600
+270;Polivitamínico associado com Poliminerais -;136860;Comprimido;0,0630
+271;Sulpirida+Bromazepam 25mg/1mg -;10000;Comprimido;1,3067
+279;Escopolamina, Butilbrometo 20mg/ml inj 1ml -;7500;Ampola;1,2250
+280;Formoterol+Budesonida 12/400mcg c/ 60 cps -;2615;Frasco;62,9383
+281;Diosmina 450mg+Hesperidina 50mg -;320240;Comprimido;0,3647
+282;Adrenalina 1mg/ml 1ml -;2500;Ampola;1,2350
+283;Clopidrogrel 75mg -;343262;Comprimido;0,2938
+284;Atorvastatina, Cálcica 40mg -;49630;Comprimido;0,4500
+285;Atenolol 100mg -;281500;Comprimido;0,0800
+287;Lisinopril 10mg -;35180;Comprimido;0,3200
+288;Paroxetina, Cloridrato 20mg -;1144505;Comprimido;0,2013
+290;Carboximetilcelulose sol oftalmica 5mg/ml, 15ml -;12000;Comprimido;0,2880
+291;Ibuprofeno 600mg -;2274684;Comprimido;0,1557
+293;Fitomenadiona 10mg, 1ml -;857;Ampola;2,3700
+294;Lisinopril 20mg -;9180;Comprimido;0,3230
+295;Losartana, Potássica 25mg -;95000;Comprimido;0,7000
+296;Meloxicam 15mg -;250000;Comprimido;0,0859
+297;Betametasona+Cetoconazol+Neomicina 30g -;3443;Bisnaga;3,1595
+298;Omeprazol 40mg/10ml inj -;4500;Ampola;16,8345
+299;Nimodipino 30mg -;27000;Comprimido;0,2990
+300;Ciproeptadina+associações vitamina B 120ml -;348;Frasco;7,8660
+301;Piracetam 800mg -;300;Comprimido;0,9789
+302;Sinvastatina 10mg -;32000;Comprimido;0,0590
+303;Sinvastatina 40mg -;1964500;Comprimido;0,1304
+304;Glimepirida 4mg -;267300;Comprimido;0,1535
+305;Levofloxacino 500mg -;132542;Comprimido;0,5100
+306;Azitromicina suspenção 600mg -;30450;Frasco;4,3261
+308;Prometazina 25/ml, 2ml, inj -;5310;Ampola;2,9540
+309;Clorpromazina 100mg -;500000;Comprimido;0,2417
+310;Primidona 250mg -;3500;Comprimido;0,8500
+311;Clortalidona 50mg -;30000;Comprimido;0,2179
+314;Bronfeniramina 2mg/ml+Fenilefrina 2,5mg/ml 20ml -;2000;Frasco;7,2479
+315;Medroxiprogesterona, Acetato 150 mg, inj 1ml -;2000;Ampola;10,1399
+316;Vitamina Complexo B sol oral, 100ml -;1170;Frasco;2,6000
+317;Saccharomyces boulardii- 17 liofilizado 1g pó -;7220;Unidade;0,9999
+318;Furosemida 10mg/ml 2ml IV/IM -;5800;Ampola;1,0399
+319;Ceftriaxona 1g + Diluente (Lidocaina 1%) 3,5ml IM;8870;Ampola;7,9594
+320;Cefalotina sódica,1g, EV/IM -;150;Ampola;5,6600
+322;Oxido de zinco+Vitamina A+ Vitamina D pomada 45g -;2850;Bisnaga;2,2999
+324;Espironolactona 25mg -;2000000;Comprimido;0,1400
+327;Ambroxol, Cloridratado 7,5mg, sol oral 50ml -;250;Frasco;2,8300
+328;Nortriptilina, Cloridrato 25mg -;282240;Comprimido;0,2180
+329;Metoprolol, Succinato 50mg -;1636240;Comprimido;0,4939
+330;Metoprolol, Tartarato 100mg -;230000;Comprimido;0,1984
+331;Cetoconazol, 2% shampoo, 100ml -;3000;Frasco;4,8000
+334;Risperidona 2mg -;790000;Comprimido;0,0850
+336;Aciclovir 400mg -;25000;Comprimido;0,9777
+337;Aciclovir 50mg/g, creme 10g -;8000;Bisnaga;1,7900
+339;Aminofilina 200mg -;30000;Comprimido;0,1490
+340;Losartana+Hidroclorotiazida 50mg/12,5mg -;72910;Comprimido;0,1699
+342;Atropina, Sulfato 0,25mg/ml 1ml -;495;Ampola;1,0000
+343;Beclometasona 250mcg spray 200 doses -;2470;Frasco;16,9900
+344;Nitrendipino 10mg -;43080;Comprimido;0,5899
+345;Nitrendipino 20mg -;26000;Comprimido;1,0569
+346;Cetoprofeno 100mg EV -;13000;Ampola;5,0000
+347;Estradiol 1mg+ Acetato de Noretisterona 0,5mg 28cp -;90;Cartela;21,5000
+348;Cloreto de Potássio 10%, 10ml -;1005;Ampola;0,3000
+349;Cloreto de Sódio 20%, 20ml -;300;Ampola;0,8500
+350;Clorexidina, Digliconato 10mg/ml spray 45ml - ;150;Frasco;7,5900
+358;Dopamina 5mg/ml sol inj 10ml -;1000;Ampola;2,2400
+360;Etilefrina, cloridrato 10mg, 1ml inj -;255;Ampola;1,3600
+362;Espironolactona 100mg -;39000;Comprimido;0,5500
+363;Formoterol,Fum 12mcg c/dosador c/30 caps -;1000;Frasco;37,5000
+364;Gentamicina colírio 5mg/1ml, 5ml -;884;Frasco;8,6999
+365;Genfibrozila 600mg -;5000;Comprimido;1,4900
+366;Cilostazol 100mg -;120000;Comprimido;0,3299
+367;Itraconazol 100mg -;25710;Comprimido;0,6650
+368;Lisinopril 5mg -;2600;Comprimido;0,5429
+369;Tibolona 1,25mg -;13290;Comprimido;0,7000
+372;Loratadina 10mg -;820876;Comprimido;0,0714
+373;Varfarina, Sódica 5mg -;283320;Comprimido;0,1150
+374;Timolol 0,5% solução oftálmica 5ml -;3485;Frasco;3,1859
+376;Carboximetilcelulose sol oftalmica 5mg/ml, 15ml -;100;Frasco;15,0000
+377;Miconazol 20mg/g pó 30g - ;210;Frasco;28,1399
+378;Miconazol creme dermatológico 20mg/g 28g -;4070;Bisnaga;1,9500
+380;Oleo Mineral 100ml -;16213;Frasco;2,1000
+383;Pirimetamina 25mg -;1100;Comprimido;0,0790
+387;Sulfadiazina de Prata 1%, creme 30g -;11906;Bisnaga;4,5900
+390;Teofilina 200mg -;3000;Comprimido;0,6800
+394;Ticlodipina,  250mg -;2500;Comprimido;0,5463
+396;Cumarina+Troxerrutina 15/90mg -;130620;Comprimido;0,2670
+397;Propatilnitrato 10mg -;150000;Comprimido;0,4500
+401;Tetraciclina+Anfotericina B 45g creme ginecológico -;100;Bisnaga;28,0000
+402;Carvedilol 6,25mg -;550000;Comprimido;0,0900
+405;Supositório de glicerina infantil -;600;Unidade;1,1120
+406;Heparina sódica 5.000UI, 0,25ml, inj -;1015;Ampola;9,0300
+410;Ivermectina 6mg -;276272;Comprimido;0,4102
+412;Lidocaína+Polimixina B, Sulfato sol otológica 10ml -;230;Frasco;10,2500
+415;Dexametasona 0,1mg/ml, 100ml -;14800;Frasco;1,8950
+418;Lidocaína 1% sem vasoconstritor 20ml -;825;Ampola;6,0000
+421;Naproxeno sódico, 500mg -;46987;Comprimido;0,6082
+424;Triquilar cart c/ 21 cp -;10500;Cartela;7,5957
+425;Rosuvastatina Cálcica 10mg -;71860;Comprimido;0,1600
+426;Anlodipino, Besilato 10mg -;483900;Comprimido;0,0597
+428;Primidona 100mg -;2000;Comprimido;0,3601
+429;Bloqueador solar UVA+UVB FPS 30 120ml -;3500;Frasco;8,0000
+431;Citalopram 40mg -;6000;Comprimido;4,3887
+433;Secnidazol 1000mg -;12000;Comprimido;0,6500
+435;Fexofenadina 120mg -;12600;Comprimido;0,7400
+437;Atenolol+Clortalidona 25/12,5mg -;3280;Comprimido;0,5039
+438;Betaistina, Dicloridrato 16mg -;226180;Comprimido;0,1900
+439;Budesonida 64mcg aqua nasal,  c/ 120 doses -;2905;Frasco;14,7500
+440;Bupropiona, Cloridrato 150mg - Liberação Prolongada;400000;Comprimido;0,3418
+442;Tioridazina 50mg -;7600;Comprimido;0,7300
+444;Betaistina, Dicloridrato 24mg -;180000;Comprimido;0,2200
+445;Clobazam 20mg -;10000;Comprimido;0,9999
+446;Flurazepam 30mg -;600;Comprimido;0,6368
+447;Venlafaxina 75mg liberação prolongada -;500000;Cápsula;0,6069
+448;Venlafaxina 37,5mg -;80000;Cápsula;0,5489
+449;Acetazolamida 250mg -;12000;Comprimido;0,4600
+451;Naltrexona cloridrato,  50mg -;12000;Comprimido;3,4687
+452;Sorbitol+Laurilsulfato de Sódio bn aplicação retal -;160;Bisnaga;3,5171
+453;Verapamil 120mg, ação prolongada -;38800;Comprimido;0,6447
+454;Propranolol 80mg -;8000;Comprimido;0,6600
+455;Metilfenidato, Cloridrato 30mg LA -;700;Cápsula;7,7830
+456;Olmesartana+Hidroclorotiazida 40mg/25mg -;5940;Comprimido;0,7559
+461;Timomodulina 200mg/ml, 120 ml -;0;Frasco;99,0000
+462;Losartana+Hidroclorotiazida  100mg/25mg -;15000;Comprimido;0,2837
+463;Calcitriol 0,25mcg -;3500;Cápsula;2,9700
+465;Beclometasona 200mcg aerossol oral 200 doses -;1828;Frasco;57,1996
+466;Salmeterol+Fluticasona 25/125mcg -;575;Frasco;105,5800
+468;Clobetasol, Propionato 0,05% pomada, 30g -;350;Bisnaga;4,9390
+469;Atorvastatina, Cálcica 20mg -;58000;Comprimido;0,2593
+470;Fenofibrato 250mg -;8100;Cápsula;1,6043
+471;Tetracaína 1%+Fenilefrina 0,1% sol oftálmica 10ml -;490;Frasco;8,1499
+474;Beclometasona 50mcg+Salbutamol 100mcg oral 200ds -;80;Frasco;37,7779
+475;Domperidona 10mg -;242054;Comprimido;0,0700
+476;Lansoprazol 30mg+Claritromicina 500mg+Amoxicilina -;445;Caixa;43,8900
+477;Cloranfenicol+Aminoác.+Metionina+Retinol pom oft -;552;Bisnaga;10,7999
+480;Tioridazina 10mg -;650;Comprimido;0,6000
+482;Quetiapina, Fumarato 100mg -;114772;Comprimido;0,4560
+483;Ipratrópio, Brometo 20mcg/200doses spray -;508;Frasco;22,4999
+484;Hidroxicloroquina 400mg -;48600;Comprimido;1,4639
+486;Carvedilol 12,5mg -;513850;Comprimido;0,0938
+487;Alprazolam 0,50mg -;323980;Comprimido;0,0659
+488;Trifluoperazina, Dicloridrato 5mg -;0;Comprimido;0,5339
+489;Montelucaste Sódico 10mg -;3500;Comprimido;0,4200
+490;Montelucaste Sódico 4mg granulado -;5600;Envelope;1,4199
+491;Haloperidol 1mg -;40000;Comprimido;0,1300
+494;Nortriptilina, Cloridrato 10mg -;15000;Comprimido;0,7100
+495;Bisacodil 5mg -;25000;Comprimido;0,1229
+498;Clonidina, Cloridrato 0,100mg -;82360;Comprimido;0,2029
+499;Clonidina, Cloridrato  0,200mg - ;15550;Comprimido;0,3149
+500;Midazolam 15mg -;10100;Comprimido;1,4000
+507;Glicosamina 1500mg+Condroitina 1200mg sachê -;14000;Envelope;2,9999
+512;Hidroxiquinolina+Trolamina 0,4/140mg/ml otológ 8ml -;1875;Frasco;8,6300
+517;Cetoprofeno Enterico 100mg -;48900;Comprimido;0,7785
+518;Ciclobenzaprina, Cloridrato 5mg -;321230;Comprimido;0,0700
+519;Memantina 10mg -;168750;Comprimido;0,2100
+520;Tioridazina 25 mg -;7000;Comprimido;0,7799
+522;Risperidona 3mg -;55000;Comprimido;0,1270
+523;Acido Acetilsalicílico 100mg tamponado -;70000;Comprimido;0,3000
+524;Carbamazepina 400 mg liberação controlada -;9000;Comprimido;1,7500
+525;Deltametrina shampoo, 0,2mg/ml, 100 ml -;3015;Frasco;4,9130
+526;Ibuprofeno 50mg/ml, 30ml -;34337;Frasco;1,6000
+527;Acido Ascórbico 500mg -;27000;Comprimido;0,1200
+528;Acido Aminocapróico 500mg -;700;Comprimido;0,9191
+530;Acebrofilina 10mg/ml xpe adulto, 120ml -;19250;Frasco;4,2722
+532;Castanha da Índia 100mg -;187800;Comprimido;0,1450
+533;Ciprofloxacino, Cloridrato 500mg -;400000;Comprimido;0,1549
+535;Clobetasol, Propionato 0,05% creme 30g -;837;Bisnaga;4,4997
+536;Clobutinol 4mg+Doxilamina 0,75mg/ml xpe 100ml -;500;Frasco;24,9000
+537;Diacereina 50 mg -;1800;Comprimido;3,6999
+538;Paracetamol+Cafeina+Carisoprodol+Diclofenaco cp -;300000;Comprimido;0,1297
+539;Diltiazen 60mg -;47300;Comprimido;0,1910
+540;Doxazosina 4mg -;220000;Comprimido;0,1500
+541;Estriol creme vaginal 50g -;1702;Bisnaga;10,0000
+543;Isoflavona 30mg -;16000;Comprimido;0,4000
+544;Levodopa+Benserazida 200/50mg -;330000;Comprimido;1,1488
+545;Levotiroxina Sódica 150mcg -;50000;Comprimido;0,2199
+546;Losartana, Potássica 50 mg -;5000000;Comprimido;0,0529
+547;Silimariana+Metionina 70/100mg -;2400;Dragea;1,5100
+548;Salicilato de metila+Cânfora+Mentol pomada 30g -;600;Bisnaga;5,4439
+549;Tramadol 50mg -;250000;Comprimido;0,1900
+551;Amantadina 100mg -;45000;Comprimido;0,4800
+552;Clomipramina 75mg liberação lenta -;17460;Comprimido;1,0499
+553;Nortriptilina, Cloridrato 50 mg -;70000;Comprimido;0,3220
+554;Oxcarbazepina 600mg -;55570;Comprimido;1,2500
+555;Amilorida+Hidroclorotiazida 2,5/25mg -;250000;Comprimido;0,1883
+556;Carbonato de Cálcio 600mg+Vitamina D 200UI -;443000;Comprimido;0,0500
+557;Dexametasona 1mg/ml, sol oftálmica,5ml -;2865;Frasco;6,7299
+559;Acarbose 50mg -;4500;Comprimido;0,7800
+560;Bamifilina, Cloridrato 600mg -;5500;Comprimido;2,0909
+561;Bromexina , Cloridrato 2mg/ml sol oral 50ml -;300;Frasco;14,7719
+563;Diltiazem 120mg -;1940;Comprimido;2,3134
+564;Lamotrigina 100mg -;46300;Comprimido;0,1900
+565;Levotiroxina Sódica 50mcg -;1343240;Comprimido;0,0856
+566;Levotiroxina Sódica 75mcg -;281731;Comprimido;0,1180
+567;Isossorbida, Mononitrato 50mg -;500;Comprimido;1,9403
+568;Olmesartana, Medoxomila 20mg -;8000;Comprimido;0,5267
+569;Oxcarbazepina 300mg -;36410;Comprimido;0,6599
+571;Sertralina, Cloridrato 50mg -;1867320;Comprimido;0,0970
+572;Nafazolina+Benzalcônio+Cl Sódio nasal 30ml adulto -;2000;Frasco;2,4150
+575;Levotiroxina Sódica 25mcg -;1239758;Comprimido;0,0862
+577;Glimepirida 2mg -;180000;Comprimido;0,0770
+579;Metronidazol 400mg -;80000;Comprimido;0,2000
+584;Glicosamina+Condroitina 500/400mg -;56540;Comprimido;1,0999
+586;Carvedilol 3,125mg -;504720;Comprimido;0,0979
+587;Mirtazapina 30mg -;42280;Comprimido;0,5000
+591;Fenoterol, Bromidrato 100mcg/dose spray -;1400;Frasco;19,9199
+592;Diclofenaco Potássico 15mg/ml 20ml -;2360;Frasco;2,9800
+594;Paracetamol 200mg/ml 15ml -;42600;Frasco;0,8900
+597;Vitamina A 3000U.I+Vitamina D 800UI sol oral 10ml -;1280;Frasco;2,4000
+600;Agua Destilada 10ml -;25000;Ampola;0,3500
+602;Albendazol, 400mg -;60000;Comprimido;0,2540
+603;Alprazolam 0,25mg -;80000;Comprimido;0,0810
+607;Betaistina, Dicloridrato 8mg -;3000;Comprimido;0,3200
+608;Genfibrozila 900mg -;2000;Comprimido;1,5150
+609;Losartana, Potássica 100mg -;300000;Comprimido;0,2099
+610;Bimatoprosta 0,03%, solução oftálmica 3ml -;45;Frasco;26,7207
+613;Passiflora incarnata 90mg/ml susp 100ml -;60;Frasco;16,3319
+617;Acido Acetilsalicílico 325mg tamponado -;15000;Comprimido;0,5000
+618;Gestodeno+Etinilestradiol 0,075mg+0,02mg c/ 21cp -;500;Cartela;6,7000
+619;Tinidazol+Miconazol 30/20mg/g 40g c/7aplic ginec -;570;Bisnaga;10,0000
+620;Travoprosta 0,04mg/ml, sol oftálmica, 2,5ml -;534;Frasco;14,9500
+621;Lercanidipina 10mg -;1600;Comprimido;1,7569
+622;Dropropizina 1,5mg/ml xpe 120ml -;2000;Frasco;13,8634
+623;Dropropizina 3,0mg/ml 120ml -;6680;Frasco;5,8319
+625;Varfarina, Sódica 2,5mg -;9000;Comprimido;0,3360
+626;Risperidona 1mg -;550000;Comprimido;0,0690
+628;Tinidazol 500mg -;150;Comprimido;0,7900
+629;Cabergolina 0,5mg -;500;Comprimido;1,5000
+630;Carbonato de Lítio 450mg CR -;6200;Comprimido;1,4275
+632;Betaxolol 5mg/ml susp oftálmica 5ml - ;10;Frasco;15,9999
+633;Leflunomida 20mg -;1980;Comprimido;7,6000
+635;Azatioprina 50mg -;8000;Comprimido;0,7500
+638;Diltiazem 30mg -;19000;Comprimido;0,1267
+642;Ramipril 2,5mg -;15000;Comprimido;1,3440
+645;Levotiroxina Sódica 200mcg -;5700;Comprimido;0,5336
+646;Betametasona+Gentamicina 0,5/1mg/g creme 30g -;400;Bisnaga;5,8199
+648;Acido Tranexâmico, 50mg/ml, sol injetável -;955;Ampola;4,7250
+649;Acido Mefenâmico 500mg -;1050;Comprimido;0,4600
+650;Anlodipino, Besilato 5mg -;1973420;Comprimido;0,0255
+651;Cetoprofeno 50mg -;55260;Comprimido;0,2000
+653;Colchicina  0,5mg -;59620;Comprimido;0,1700
+654;Diidroergotamina 1mg+Dipirona 350mg+Cafeína 100mg -;8300;Comprimido;1,1847
+656;Flunarizina 10mg+Diidroergocristina 3mg -;1200;Comprimido;2,9199
+658;Noretisterona 50mg+Estradiol 5mg inj -;1030;Ampola;11,9000
+659;Orfenadrina+Dipirona+Cafeína 35mg/300mg/50mg -;60000;Comprimido;0,1209
+661;Pantoprazol, Sódico 20mg -;246669;Comprimido;0,1078
+662;Pravastatina 20mg -;650;Comprimido;2,2583
+666;Paroxetina, Cloridrato 10mg -;700;Comprimido;0,7000
+667;Tiamina 300mg -;65000;Comprimido;0,1900
+669;Isomepteno 30mg+Dipirona 300mg+Cafeína 30mg -;26000;Comprimido;0,2200
+670;Miconazol 20mg/g, loção, 30ml -;450;Frasco;2,7500
+672;Atenolol+Clortalidona 100/25mg -;42000;Comprimido;0,2457
+673;Atenolol+Clortalidona 50/12,5mg -;68000;Comprimido;0,1200
+674;Manidipino 10mg -;3000;Comprimido;2,2080
+676;Atorvastatina, Cálcica 10mg -;35000;Comprimido;0,2199
+678;Loperamida, Cloridrato 2mg -;23100;Comprimido;0,1200
+679;Levotiroxina Sódica 125mcg -;39740;Comprimido;0,1599
+680;Desloratadina 5mg -;15467;Comprimido;0,3999
+682;Estradiol, Valerato 1mg cx c/ 28cp -;525;Cartela;34,7082
+687;Clordiazepóxido+Amitriptilina 5mg/12,5mg -;36900;Comprimido;0,4337
+688;Ramipril 5mg -;177080;Comprimido;1,4414
+689;Carbamazepina 200mg liberação controlada -;2500;Comprimido;0,7200
+690;Plantago ovata Forsk 3,5g sachê 5g -;21000;Envelope;0,9799
+692;Ezetimiba+Sinvastatina 10/20mg -;2300;Comprimido;1,5190
+693;Domperidona 1mg/ml susp, 100ml -;510;Frasco;9,1999
+694;Piracetam 400mg -;11000;Comprimido;0,4000
+698;Sulfato Ferroso 25mg/ml, 100ml -;900;Frasco;2,1000
+699;Cilostazol 50mg -;116547;Comprimido;0,2137
+701;Risedronato de Sódio 35mg -;200;Comprimido;4,9999
+703;Drospirenona 3mg+Etinilestradiol 0,03mg c/ 21cp -;180;Cartela;10,5000
+705;Morfina, Sulfato 10mg/ml amp 1ml -;4600;Ampola;2,3000
+706;Ferro Polimaltosado 50mg/ml sol oral 30ml gts -;740;Frasco;5,0341
+708;Brimonidina, Tartarato 2mg/ml colírio 5ml -;250;Frasco;4,9204
+712;Ciprofibrato 100mg -;283880;Comprimido;0,2971
+714;Pramipexol 0,125mg -;3500;Comprimido;0,5347
+715;Carvedilol 25mg -;311340;Comprimido;0,1530
+718;Brimonidina 0,2%+Timolol 0,5% colírio 5ml -;99;Frasco;71,9818
+719;Brinzolamida 10mg/ml colírio 5ml -;65;Frasco;70,5839
+720;Clozapina 100mg -;5000;Comprimido;1,4000
+721;Dorzolamida 2% sol oftálmica 5ml -;75;Frasco;19,9319
+722;Sulpirida 200mg -;12980;Comprimido;1,0799
+725;Hidralazina 25mg -;800;Comprimido;1,9610
+728;Beclometasona 250mcg spray oral c/espaçador -;250;Frasco;28,2000
+730;Alprazolam 1mg -;272090;Comprimido;0,0542
+731;Desogestrel 75mcg c/28cp -;750;Cartela;5,0449
+732;Celecoxibe 200mg -;13290;Cápsula;0,6200
+734;Dexametasona 4mg cp -;141876;Comprimido;0,2100
+735;Fluticasona spray nasal 50mcg/dose, 120 doses -;30;Frasco;42,1799
+736;Tenoxicam 20mg -;7000;Comprimido;0,3490
+737;Tramadol 50mg/ml 1ml inj -;6500;Ampola;0,9200
+738;Acido Ascórbico 100mg/ml inj 5ml -;2100;Ampola;0,9392
+739;Glicose 50% inj 10ml -;5500;Ampola;0,6550
+740;Coenzima Q 10 100mg -;720;Comprimido;1,5400
+741;Atorvastatina, Cálcica 80mg -;8200;Comprimido;1,0540
+743;Acebrofilina 5mg/ml, xpe infantil, 120ml -;10420;Frasco;2,3500
+746;Bamifilina, Cloridrato 300mg -;14910;Comprimido;1,3089
+747;Finasterida 5mg -;148990;Comprimido;0,3099
+748;Flutamida 250mg -;0;Comprimido;4,8709
+749;Mometasona, Furoato 50mcg spray nasal 60 doses - ;50;Frasco;18,4989
+752;Pasta d´água -;830;Frasco;4,6000
+755;Propiltiouracila 100mg -;10500;Comprimido;0,5900
+756;Supositório de glicerina adulto -;236;Unidade;1,1100
+760;Sotalol, Cloridrato 160mg -;20730;Comprimido;0,4099
+761;Bromexina 0,8 mg/ml xpe infantil 120ml -;9000;Frasco;3,3109
+764;Cloreto de Potássio 600mg -;8000;Comprimido;0,6300
+765;Hidróxido de Alumínio 230mg -;54500;Comprimido;0,4494
+768;Acido Folínico 15mg -;3000;Comprimido;1,3600
+770;Sulfadiazina 500mg -;6500;Comprimido;0,2300
+772;Estradiol, Valerato 2mg cx c/ 28cp -;110;Envelope;64,0630
+774;Olanzapina 10mg -;18000;Comprimido;0,3500
+776;Teofilina 100mg -;2000;Comprimido;0,4300
+780;Suplemento nutricional pó 400g baunilha -;280;Lata;19,7900
+784;Fluoxetina 20mg/ml, 20ml -;900;Frasco;42,2899
+785;Fórmula semielementar hipoalérg desde o nasc 400g -;24;Lata;47,3500
+786;Rivastigmina 1,5mg -;3500;Cápsula;0,9200
+789;Mesalazina 500mg supositório -;0;Unidade;6,1999
+792;Lamotrigina 25mg -;14800;Comprimido;0,1299
+793;Candesartana  16mg -;3960;Comprimido;1,4800
+796;Acetilcisteína 600mg pó p solução oral, 5g -;18510;Envelope;0,5999
+797;Petidina, Cloridrato 50mg/ml 2ml -;1224;Ampola;2,1800
+798;Bromoprida 5 mg/ml 2ml IM/IV -;6300;Ampola;1,4000
+804;Pentoxifilina 400mg -;900;Comprimido;1,6350
+806;Tenoxicam 20mg EV/IM -;3100;Ampola;8,6760
+810;Ampicilina 500mg IM/IV -;205;Ampola;3,5600
+817;Metronidazol 0,5% inj 100ml -;1600;Ampola;3,3500
+821;Agua Destilada 5ml -;5170;Ampola;0,2290
+823;Gentamicina 80mg/2ml -;980;Ampola;1,0400
+824;Picossulfato Sódico 7,5mg/ml gts 30ml -;70;Frasco;8,8319
+825;Gliclazida 30mg liberação prolongada -;561550;Comprimido;0,0985
+826;Glimepirida 1mg -;6500;Comprimido;0,1770
+827;Lamotrigina 50mg -;20000;Comprimido;0,1884
+829;Cetoprofeno 50mg/ml IM 2ml inj -;18000;Ampola;1,2900
+830;Dexametasona+Dipirona+Vit B12 inj -;2000;Ampola;13,4639
+833;Tiamazol 10mg -;30000;Comprimido;0,4132
+834;Lubrificante Oftálmico, Oftane, 15ml -;386;Frasco;49,1039
+837;Prednisolona 3mg/ml solução oral 60 ml -;12370;Frasco;3,1700
+839;Valsartana 320mg -;14100;Comprimido;1,1587
+840;Indapamida 1,5mg liberação prolongada -;1000;Comprimido;0,1400
+841;Permetrina 50mg/ml, loção, 60ml -;2200;Frasco;2,7000
+844;Levodropropizina 6mg/ml xarope 120ml -;700;Frasco;26,9999
+845;Amoxicilina susp. oral 250mg/5ml, 150ml -;15385;Frasco;3,6490
+846;Dimenidrinato 50mg+Piridoxina 10mg -;68940;Comprimido;0,5149
+848;Metotrexato Sódico inj 50mg/2ml -;60;Ampola;23,9600
+849;Lactulose 667mg/ml xpe 120ml -;9290;Frasco;5,7979
+850;Ciclobenzaprina, Cloridrato 10mg -;252740;Comprimido;0,0980
+851;Esomeprazol, Magnésio 20mg -;13860;Comprimido;0,7600
+853;Bisoprolol, Fumarato 1,25mg -;5500;Comprimido;0,1679
+854;Bisoprolol, Fumarato 2,5mg -;11320;Comprimido;0,2418
+855;Duloxetina 60mg -;150000;Cápsula;1,9515
+856;Rivastigmina 3mg -;3100;Comprimido;3,0500
+857;Morfina, Sulfato 10mg/ml sol oral 60ml -;436;Frasco;22,1700
+859;Pramipexol 1mg -;3500;Comprimido;1,6199
+860;Tiamazol 5mg -;12000;Comprimido;0,2084
+862;Venlafaxina 150mg liberação prolongada -;195870;Cápsula;1,1507
+864;Insulina Glargina 100UI/ml 3ml refil p/ caneta -;0;Frasco;33,3000
+866;Dexclorfeniramina 2mg+Betametasona 0,25mg cp -;11200;Comprimido;0,1768
+867;Vildagliptina 50mg -;8500;Comprimido;2,7089
+869;Dexclorfeniramina+Betametason 2mg/0,25mg/5ml 100ml -;5220;Frasco;2,6900
+870;Valsartana+Hidroclorotiazida 160/12,5mg -;7000;Comprimido;1,3859
+872;Trazodona 100mg -;21000;Comprimido;0,7500
+875;Acidos Graxos Essenciais+vit A e E 100ml -;4364;Frasco;3,1490
+876;Ciproterona, Acetato 50mg -;880;Comprimido;2,8427
+878;Metformina+Vidagliptina 850mg/50mg -;7678;Comprimido;2,6732
+881;Minoxidil 50mg/ml solução capilar 50ml -;20;Frasco;46,9190
+882;Polivitaminico (vitaminas A,B,C,D) gotas 20ml -;1156;Frasco;3,7499
+884;Manidipino 20mg -;450;Comprimido;7,7749
+885;Cromoglicato de Sódio 40mg/ml sol oftálmica 5ml -;211;Frasco;13,0999
+888;Sitagliptina, Fosfato 100mg -;3600;Comprimido;4,5000
+894;Topiramato 50mg -;257020;Comprimido;0,1400
+896;Zolpidem 10mg -;210000;Comprimido;0,2139
+900;Fórmula infantil 0-6meses c/prebiótico 400g -;2000;Lata;15,4800
+901;Guaco xarope 100ml -;5000;Frasco;2,1000
+902;Dextrano 1mg/ml+ Hipromelose 3ml/ml sol oft 15ml -;900;Frasco;11,0000
+905;Valsartana 160mg -;14400;Comprimido;0,9559
+906;Anlodipino 5mg+Benazepril 20mg -;300;Comprimido;0,8460
+907;Hidralazina 50mg -;52100;Comprimido;0,3200
+910;Vitamina E (Racealfatocoferol, Acetato) 400mg -;5340;Comprimido;0,3132
+913;Hidróxido Alumínio+Mg+Dimeticona susp oral 150ml -;5500;Frasco;3,7000
+914;Propranolol 10mg -;15840;Comprimido;0,0911
+918;Ibandronato de sódio 150mg -;25;Comprimido;15,2499
+920;Bromoprida 10mg -;124960;Comprimido;0,1400
+927;Propafenona 300mg -;77760;Comprimido;0,3900
+928;Salmeterol+Fluticasona 50/250mcg Diskus -;202;Frasco;105,5800
+939;Tiotrópio, Brometo 2,5mcg 60 doses -;280;Frasco;240,7758
+941;Nortriptilina, Cloridrato 75mg -;7000;Comprimido;0,7300
+942;Trazodona 50mg -;47000;Comprimido;0,3144
+943;Quetiapina, Fumarato 25mg -;300000;Comprimido;0,1232
+947;Enalapril+Hidroclorotiazida 10/25mg -;8000;Comprimido;0,2147
+952;Pantoprazol, Sódico 40mg -;380000;Comprimido;0,1450
+953;Flufenazina 25mg/ml, amp 1ml -;1100;Ampola;4,8700
+954;Periciazina 40mg/ml sol oral 20ml -;600;Frasco;16,6299
+955;Paracetamol+Tramadol 325mg/37,5mg -;7000;Comprimido;1,5670
+972;Benzocaína+Triclosana+Mentol aerossol 43g -;60;Frasco;26,1239
+973;Hexamedina 1mg+Tetracaína 0,5mg colutór. spray50ml -;100;Frasco;26,7400
+975;Bromoprida 4mg/ml gotas 20ml -;5770;Frasco;1,0499
+978;Fosf. Sódio Enema Fosf. Monob16%+Dibasico 6% 130ml -;360;Frasco;5,7000
+979;Lidocaína 10 % spray -;200;Frasco;40,0000
+981;Carvão Vegetal ativado 250mg -;3800;Comprimido;1,0999
+982;Dexametasona+Neomicina+Polimixina B colírio -;810;Frasco;7,2400
+983;Prometazina 20mg/g creme 30g -;777;Unidade;4,8670
+984;Mupirocina 20mg/g pomada 15g -;250;Unidade;11,0000
+985;Deslanosídeo 0,2mg/ml inj -;300;Ampola;3,0000
+986;Enoxaparina Sódica 40mg/ml inj 0,4ml -;950;Ampola;26,0000
+987;Terbutalina, Sulfato 0,5mg/ml inj 1ml -;450;Ampola;1,6800
+989;Metilergometrina 0,2mg/ml SC/EV/IM -;600;Ampola;3,0000
+994;Prednisolona 10mg/ml oftálmica 5ml -;155;Frasco;11,9999
+995;Optive Colírio -;300;Frasco;43,3440
+999;Tramadol 100mg -;29960;Comprimido;2,0000
+1001;Ramipril+Hidroclorotiazida 5mg/25mg -;2500;Comprimido;1,6113
+1002;Betametasona+Gentamicina+Tolnaftato+Clioquinol 20g -;240;Bisnaga;7,2749
+1008;Espironolactona 50mg -;119000;Comprimido;0,2470
+1010;Ramipril 10mg -;34840;Comprimido;1,4411
+1011;Tibolona 2,5mg -;4000;Comprimido;0,5899
+1013;Sertralina, Cloridrato 100mg -;33000;Comprimido;0,2500
+1014;Gabapentina 400mg -;8000;Comprimido;0,4000
+1016;Candesartana 8mg -;480;Comprimido;1,4900
+1017;Valsartana 80mg -;2500;Comprimido;0,6179
+1020;Metoprolol, Succinato 25mg -;940070;Comprimido;0,3013
+1021;Lidocaína 2% sem vaso carpule 1,8ml -;500;Unidade;3,7900
+1025;Alprazolam 2mg -;70000;Comprimido;0,1232
+1027;Latanoprosta 0,005% 50mcg/ml colirio -;45;Frasco;13,7999
+1029;Etodolaco 400mg -;28000;Comprimido;0,9979
+1031;Omega 3 -;6000;Comprimido;0,1800
+1032;Metformina+Vidagliptina 1000mg/50mg -;1328;Comprimido;2,6732
+1034;Colchicina 1mg -;6500;Comprimido;1,9830
+1035;Olanzapina 5mg -;16000;Comprimido;0,2900
+1038;Betametasona, Valerato 1 mg/g creme, 30g -;250;Bisnaga;5,7582
+1039;Betametasona+Ac. Salicilico 0,5mg/ml+20mg/ml sol. -;20;Frasco;7,4639
+1041;Dutasterida 0,5mg -;2500;Comprimido;2,2399
+1045;Aminaftone 75mg -;1200;Comprimido;1,2731
+1046;Trimebutina, Maleato 200mg -;1800;Comprimido;0,9459
+1048;Amicacina, Sulfato 250mg/ml, sol inj, amp 2ml -;240;Ampola;3,0000
+1049;Amoxicilina 500mg+ Clavulanato de potassio 125mg c -;320954;Comprimido;0,6989
+1051;Desogestrel+Etinilestradiol 150/20mcg c/ 21cp -;98;Cartela;7,1795
+1052;Candesartana+Hidroclorotiazida 16/ 12,5mg -;10900;Comprimido;1,4700
+1053;Beclometasona 400mcg/ml flaconete 2ml -;210;Unidade;5,1999
+1054;Heparina 5000UI/ml 5ml, sol inj -;500;Ampola;23,7700
+1057;Cetoprofeno Lisinato 320mg -;0;Comprimido;3,7713
+1058;Lansoprazol 30mg -;8000;Comprimido;0,2637
+1059;Leflunomida 20mg -;1800;Comprimido;5,4100
+1061;Biperideno Lactato 5mg/ml sol inj 1ml -;828;Ampola;2,0500
+1064;Salbutamol, Sulfato 5mg/ml solução inalante -;700;Frasco;11,5200
+1065;Telmisartana 40mg -;0;Comprimido;2,3147
+1068;Topiramato 100mg -;52770;Comprimido;0,2559
+1071;Olmesartana+Hidroclorotiazida 40mg/12,5mg -;1200;Comprimido;1,5900
+1074;Olmesartana, Medoxomila 40mg -;6000;Comprimido;0,5809
+1076;Escitalopram 20mg -;133980;Comprimido;0,2600
+1077;Sotalol, Cloridrato 120mg -;750;Comprimido;0,4427
+1079;Montelucaste Sódico 5mg -;2300;Comprimido;0,4400
+1086;Divalproato Sódico ER 500mg -;10900;Comprimido;1,4616
+1089;Buspirona, Cloridrato 10mg -;7600;Comprimido;1,8299
+1092;Bacillus cereus flaconete 5ml -;5500;Frasco;3,2810
+1094;Aceclofenaco 100mg -;21500;Comprimido;0,3200
+1095;Clorpromazina 5mg/ml, amp 5ml -;1450;Ampola;2,4700
+1096;Amiodarona 50mg/ml 3ml IV -;1728;Ampola;2,0000
+1098;Dexametasona+Neomicina1/3,5mg/ml sol oftálmica 5ml -;750;Frasco;2,5169
+1099;Hidrocortisona+Neom+Polimixina B otológica 10ml -;1349;Frasco;10,4200
+1100;Dipirona 500mg/ml 20ml gts -;36870;Frasco;1,5700
+1104;Hidróxido de Alumínio+Magnésio susp oral 100ml -;13830;Frasco;2,4500
+1106;Dexametasona 0,5mg cp -;1200;Comprimido;0,3683
+1107;Triancinolona, Acetonida 1mg/g orabase 10g -;1195;Bisnaga;2,7999
+1108;Bicarbonato de Sódio 8,4% 10ml injetável -;550;Ampola;0,7200
+1109;Gliconato Cálcio, 10% sol inj, 10ml - ;450;Ampola;0,3000
+1111;Tobramicina 0,3% sol oftálmica 5ml -;1059;Frasco;5,7700
+1112;Pramipexol 0,25mg -;8930;Comprimido;0,5299
+1113;Dexametasona 1mg/ml+Tobramicina 3mg/ml colírio 5ml -;634;Frasco;21,1900
+1114;Flumazenil 0,1mg/ml inj 5ml -;500;Ampola;5,9900
+1115;Buspirona, Cloridrato 5mg -;16500;Comprimido;0,9699
+1119;Levotiroxina Sódica 112mcg -;9880;Comprimido;0,2899
+1120;Bezafibrato 200mg -;43200;Comprimido;0,7830
+1125;Bimatoprosta 0,03%+Timolol 0,05% colirio 3ml -;45;Frasco;99,4999
+1126;Rosuvastatina Cálcica 20mg -;40740;Comprimido;0,2499
+1129;Fludrocortisona 0,1mg -;0;Comprimido;1,5816
+1135;Trimetazidina Dicloridrato35mg liberação prolongad -;4500;Comprimido;1,2999
+1138;Difenidramina+Calamina+Cânfora10/80/1mg loção100ml -;100;Frasco;17,0249
+1140;Codergocrina, Mesilato 1mg/ml sol oral 30ml -;550;Frasco;20,4119
+1146;Uréia 10mg/ml loção cremosa 60ml -;230;Frasco;20,2650
+1148;Pregabalina 75mg -;280000;Cápsula;0,2000
+1149;Ciprofloxacino 3,5mg+Dexametasona 1mg colírio 5ml -;480;Frasco;8,9519
+1150;Ciclobenzaprina 5mg+Clonixinato de Lisina 125mg -;8500;Comprimido;1,3720
+1153;Amoxicilina 50mg+Ac. Clavulânico 12,5mg susp 75ml -;10655;Frasco;10,7047
+1154;Dorzolamida 2%+Timolol 0,5% 5ml colírio -;55;Unidade;22,3859
+1160;Metformina+Sitagliptina 850mg/50mg -;10436;Comprimido;2,8000
+1163;Clindamicina 300mg -;12340;Cápsula;1,1999
+1164;Clortalidona 12,5mg -;20000;Comprimido;0,1737
+1165;Duloxetina 30mg -;233010;Cápsula;1,0780
+1166;Olmesartana+Anlodipino 40mg/10mg -;300;Comprimido;1,5900
+1167;Carmelose Sódica 5mg/ml, sol oftalmica 5ml -;413;Frasco;9,9000
+1168;Quetiapina, Fumarato 200mg liberação prolongada -;2400;Comprimido;7,8199
+1170;Nitrazepam 5mg -;7000;Comprimido;0,1300
+1172;Fluticasona 27,5mg spray nasal 120 doses -;1057;Unidade;45,0099
+1175;Cascara Sagrada 75mg -;3500;Cápsula;0,7307
+1177;Alcachofra (Cynara scolymus) 200mg -;9500;Comprimido;0,2500
+1179;Espinheira Santa 380mg -;26500;Cápsula;0,4900
+1180;Ginkgo biloba 120mg -;12000;Comprimido;0,5200
+1182;Dipirona+Cafeína+Mal.Clorfenamina (250+250)/30/2mg -;6000;Comprimido;0,2020
+1184;Acidos Graxos Essenciais+vit A e E 200ml -;1800;Frasco;4,7000
+1185;Estradiol+Norestisterona 2mg/1mg c/ 28cp -;60;Cartela;30,6199
+1186;Levodopa+Benserazida 100/25mg BD cp birranhurado -;156080;Comprimido;0,7211
+1192;Mometasona, Furoato 0,1% creme 20g -;20;Bisnaga;7,5479
+1196;Oximetazolina 0,5mg/ml, sol nasal, 20ml -;130;Frasco;3,7040
+1199;Hialuronidase+Lidocaína+Neomicina otológico 8ml -;450;Frasco;16,2200
+1207;Acido Acetilsalicílico 200mg tamponado -;2000;Comprimido;0,5000
+1211;Olmesartana+Hidroclorotiazida 20mg/12,5mg -;3580;Comprimido;0,6735
+1215;Cloranfenicol+Fibrinolisina+Desoxirrib. pomada 30g -;330;Bisnaga;34,0000
+1216;Piridostigmina, Brometo 60mg -;0;Comprimido;0,3200
+1221;Diclofenaco Dietilamônio 11,6mg aerosol c/ 60g -;960;Unidade;13,7500
+1223;Fórmula infantil a partir 6meses c/prebiótico 800g -;800;Lata;35,0000
+1225;Luteína+Associações cp -;1440;Comprimido;0,8540
+1226;Valproato de Sódio+Ac. Valpróico 300mg CR -;2600;Comprimido;0,6360
+1228;Harpagophytum Procumbens 400mg -;15000;Comprimido;1,8599
+1234;Hidroxizina 2mg/ml sol oral 120ml -;1037;Frasco;6,5279
+1235;Salmeterol+Fluticasona 25/50mcg -;65;Frasco;93,2900
+1237;Cefaclor monoidratado, 75mg/ml susp oral 80ml -;90;Frasco;127,7200
+1238;Anlodipino, Besilato 2,5mg -;17500;Comprimido;0,5700
+1240;Metformina, Cloridrato 500mg ação prolongada -;140000;Comprimido;0,1799
+1242;Sibutramina 15mg - ;2800;Cápsula;0,6229
+1246;Bloqueador solar FPS 50, 120g -;1805;Frasco;13,0500
+1247;Sildenafila, Citrato 50mg -;2300;Comprimido;0,2619
+1250;Naratriptana, Cloridrato 2,5mg -;280;Comprimido;2,1840
+1251;Sumatriptana 50mg -;1500;Comprimido;6,8819
+1252;Ezetimiba 10mg -;10030;Comprimido;0,4999
+1253;Nebivolol 5mg -;3110;Comprimido;0,4800
+1255;Cloreto de Sódio 9,0mg/ml SSC spray -;2930;Frasco;2,6300
+1258;Insulina Lispro 100UI/ml, 3ml refil -;0;Frasco;40,0000
+1259;Fita reativa para HGT -;950000;Unidade;0,3345
+1261;Dipirona 500mg+Adifenina10mg+Prometazina 5mg -;28800;Comprimido;0,3327
+1264;Galantamina 16mg liberação prolongada -;880;Cápsula;3,9499
+1265;Escitalopram 10mg -;520000;Cápsula;0,1506
+1266;Benzoato de Benzila sabonete 50g -;220;Unidade;8,0850
+1268;Clozapina 25mg -;4700;Comprimido;0,5000
+1272;Deflazacort 7,5mg -;600;Comprimido;2,1400
+1274;Ciprofloxacino, Cloridrato 2mg/ml 100ml -;750;Frasco;19,0000
+1276;Glicosamina, Sulfato 1,5g sachê -;0;Envelope;1,4499
+1278;Hidrocortisona, Acetato creme 10mg/g, 15g -;1687;Bisnaga;5,3339
+1280;Noretisterona 2mg+Etinilestradiol 0,01mg c/ 30cp -;0;Cartela;9,5879
+1282;Bimatoprosta 0,03%+Timolol 0,05% colirio 5ml -;75;Frasco;165,8639
+1284;Travoprosta+Timolol 0,04mg/5mg/ml 2,5ml -;24;Frasco;141,8400
+1286;Formoterol+Budesonida 6/200mg aerossol oral 120ds -;73;Frasco;78,1500
+1289;Estradiol 0,6mg/g gel 80g -;30;Bisnaga;49,9319
+1292;Hidralazina 25mg -;54000;Comprimido;0,2500
+1294;Hidróxido de Magnésio 80mg/ml susp 100ml -;0;Frasco;2,9412
+1297;Paracetamol bebê 100mg gts 15ml -;950;Frasco;5,0000
+1298;Desloratadina xpe 0,5mg/ml 60ml -;2865;Frasco;3,7095
+1300;Ramipril+Anlodipino 10mg/5mg -;7000;Cápsula;1,6249
+1307;Testosterona, Undecilato 250mg/mL 4mL IM -;27;Ampola;200,0000
+1311;Fexofenadina, cloridrato 6mg/ml  60ml - ;160;Frasco;23,7999
+1314;Aspartato de ornitina 3g(0,6g/g) envelope 5g;1080;Unidade;11,4000
+1316;Insulina Lispro Humalog Mix 25 refil 3ml -;20;Ampola;52,3699
+1320;Bupropiona, Cloridrato 300mg XL -;4000;Comprimido;3,1299
+1321;Betametasona  Acet.+Fosf Dissódico 3mg/3mg 1ml inj -;4703;Ampola;11,9900
+1322;Levonogestrel 0,75mg -;0;Comprimido;6,0000
+1325;Clonidina 150mcg/ml 1ml -;195;Ampola;8,0000
+1326;Hidralazina 20mg/ml, sol inj -;250;Ampola;5,1700
+1327;Levofloxacino 5mg/ml EV 100ml -;580;Frasco;18,0000
+1328;Bisoprolol, Fumarato 5mg -;5500;Comprimido;0,2529
+1329;Clonazepam 0,25mg sublingual -;14000;Comprimido;0,1999
+1331;Mirtazapina 15mg orodispersível -;1200;Comprimido;1,6999
+1333;Paroxetina, Cloridrato 30mg -;3600;Cápsula;4,5000
+1338;Lidocaína 2% com vasoconstritor 20ml -;793;Frasco;6,0000
+1342;Hedera helix xpe 7mg/ml 100ml -;2210;Frasco;3,5998
+1345;Betametasona Fosfato Dissódico 4mg inj -;680;Ampola;7,4499
+1347;Ezetimiba+Sinvastatina 10/40mg -;1100;Comprimido;2,7180
+1351;Amilorida+Clortalidona 5mg+25mg -;26400;Comprimido;0,8999
+1352;Dobutamina 12,5mg/ml inj 20ml -;280;Ampola;9,0000
+1353;Tiamina+Piridoxina+Cianocobalamina 100/100/5000 IM -;700;Ampola;3,9823
+1355;Claritromicina 500mg -;14000;Comprimido;2,2300
+1357;Tamarine cápsulas -;1000;Cápsula;2,7959
+1358;Broncho-vaxom 3,5mg -;200;Cápsula;4,5000
+1359;Amoxicilina 400mg/5ml+Clav Potassio 57mg/5ml, 70ml -;7960;Frasco;7,0000
+1360;Amoxicilina 875mg+Clav potassio 125mg, cps -;152820;Cápsula;1,3901
+1365;Fórmula infantil s/lactose desde o nascimento 400g -;0;Lata;28,0500
+1366;Levocetirizina, Dicloridrato 5mg -;1000;Comprimido;1,8029
+1372;Ondansetrona 8mg comprimido revestido -;65160;Comprimido;1,3690
+1374;Rivastigmina 9,5mg/24 horas adesivo transdérmico -;540;Unidade;18,4899
+1385;Acetilcisteína 40mg/ml, xarope 100ml -;6360;Frasco;6,2600
+1386;Diclofenaco 0,1% - 1MG/ML colírio -;60;Frasco;12,0000
+1395;Anlodipino+Valsartana 5/320mg -;1700;Comprimido;2,8490
+1396;Isoflavona 60mg -;45430;Comprimido;0,3500
+1397;Pioglitazona, Cloridrato 30mg -;18000;Comprimido;1,7500
+1401;Fórmula antirrefluxo p/lactentes pó 400g -;0;Lata;15,0900
+1407;Gabapentina 600mg -;3200;Comprimido;2,0000
+1414;Metilfenidato, Cloridrato 20mg LA -;1350;Cápsula;7,4100
+1417;Trazodona 150mg Retard -;9000;Comprimido;3,7565
+1419;Buclizina, Dicloridrato 25mg -;1500;Comprimido;0,4695
+1422;Repelente 200ml aerossol -;3652;Frasco;16,9900
+1427;Levotiroxina Sódica 88mcg -;16830;Comprimido;0,2200
+1431;Ramipril+Anlodipino 5mg/5mg -;4500;Comprimido;1,6193
+1433;Brinzolamida+Timolol 10mg/5mg/ml sol oftálmica 5ml -;63;Frasco;75,4199
+1437;Deflazacorte 30mg -;0;Comprimido;4,3999
+1438;Pinavério, Brometo 100mg -;1600;Comprimido;0,5319
+1440;Ciclopirox Olamina 10mg/g creme 20g -;0;Bisnaga;7,7549
+1441;Insulina Levemir 100UI/ml 3ml refil -;25;Frasco;53,7200
+1442;Insulina Asparte 100UI/ml 3ml NovoRapid caneta -;149;Frasco;28,5000
+1444;Metilprednisolona 500mg IV/IM -;40;Ampola;25,6500
+1446;Esomeprazol, Magnésio 40mg -;14860;Comprimido;1,4800
+1448;Ondansetrona 2mg/ml 4ml (8mg) IV/IM ;5800;Ampola;2,9400
+1449;Risperidona 1mg/ml fr 30ml -;3262;Frasco;5,5000
+1451;Tramadol 100mg/2ml inj 2 ml IV/IM -;6675;Ampola;1,0500
+1464;Sitagliptina, Fosfato 50mg -;2500;Comprimido;2,5000
+1468;Piridoxina, Pidolato 500mg -;7000;Comprimido;1,6559
+1471;Mesalazina 800mg -;9000;Comprimido;1,2999
+1476;Policresuleno+Cinchocaína 100/27mg supositório -;550;Unidade;3,4300
+1477;Ciclobenzaprina+Cafeína 10mg/60mg -;950;Comprimido;1,3783
+1479;Beladona+Aloina+Erva-de-bicho+Ipeca -;1200;Dragea;0,5142
+1481;Ondansetrona 4mg comprimido revestido ;16000;Comprimido;0,9239
+1488;Levotiroxina Sódica 175mg -;7180;Comprimido;0,2900
+1497;Dexpantenol 50mg/g pomada 30g -;56;Bisnaga;6,1221
+1502;Queratina+Cistina+associações cps(pantogar) -;700;Cápsula;2,3327
+1503;Azitromicina, pó susp 40mg/ml 900mg -;8805;Frasco;7,5000
+1504;Tamoxifeno, Citrato 20mg - ;600;Comprimido;0,6660
+1505;Metoclopramida 7mg+Dimeticona 40mg+Pepsina 50mg -;4500;Cápsula;1,1699
+1506;Drospirenona+Etinilestradiol 3mg/0,02mg c/24cp -;25;Cartela;12,7229
+1507;Cetoprofeno 20mg/ml sol oral gts 20ml -;1200;Frasco;1,8500
+1508;Cicloprimogyna oral c/ 21 drágeas -;35;Cartela;9,2985
+1510;Gestodeno+Etinilestradiol 0,075mg+0,03mg c/28cp -;24;Cartela;28,1830
+1515;Meclizina 25mg -;4500;Comprimido;1,1500
+1520;Metoprolol, Succinato 100mg -;350000;Comprimido;0,7563
+1531;Timolol 0,25% solução oftálmica 5ml -;250;Frasco;4,4999
+1536;Metadona, Cloridrato 10mg - ;0;Comprimido;0,9000
+1537;Morfina, Sulfato 10mg -;1400;Comprimido;0,4200
+1538;Morfina, Sulfato 30mg -;0;Comprimido;1,1400
+1539;Axetilcefuroxina 250mg/5ml, 50ml -;50;Frasco;142,4850
+1547;Axetilcefuroxima  500mg -;300;Comprimido;4,7006
+1552;Insulina Glulisina 100UI/ml 3ml refil p/ caneta -;75;Unidade;18,0100
+1558;Silybum marianum 200mg -;17020;Cápsula;1,5717
+1560;Colina+Betaína+Metionina100/50/10mg/ml 10ml -;750;Unidade;0,8960
+1561;Desogestrel+Etinilestradiol 150mcg/30mcg c/ 21cp -;28;Cartela;8,5399
+1568;Galantamina 24mg -;0;Cápsula;2,8999
+1571;Desvenlafaxina, Succinato 50mg -;48000;Comprimido;0,8242
+1572;Diltiazem, 90mg liberação prolongada -;4500;Comprimido;1,7699
+1573;Zinco, Sultato 20mg -;92900;Comprimido;0,6500
+1578;Pilocarpina Sol oftalmica, 2%, 10ml -;15;Frasco;16,4900
+1580;Peróxido de Benzoíla  5%, gel 20g -;8;Unidade;27,4900
+1581;Miconazol, 20mg/g, gel oral, 40g - ;81;Bisnaga;37,1300
+1585;Ceftriaxona 1 g, inj - EV -;13000;Ampola;5,1700
+1587;Adenosina 3mg/ml sol inj, amp 2ml -;480;Ampola;9,9990
+1588;Triancinolona+Gramicidina+Neom+Nistatina creme -;75;Bisnaga;7,5939
+1589;Ferro, Sac Hidrox, 100mg/5ml E.V. amp -;1500;Ampola;18,0000
+1594;Cefadroxila 50mg/ml, susp oral 100ml -;470;Frasco;15,7919
+1597;Norepinefrina 2mg/ml sol inj 4ml -;450;Ampola;7,7400
+1599;Naloxona cloridrato 0,4mg/ml sol inj 1ml -;85;Ampola;5,5000
+1601;Metoprolol 1mg/ml amp 5ml -;230;Ampola;17,5000
+1604;Mirtazapina 45mg -;12900;Comprimido;0,6100
+1605;Fórmula infantil a partir 6meses c/prebiótico 400g -;1400;Lata;15,3900
+1606;Ciproterona 2mg+Etinilestradiol 0,035 c/ 21 cp -;2705;Cartela;4,9000
+1607;Ebastina 10mg -;2000;Comprimido;3,9999
+1608;Orlistate 120mg -;1500;Comprimido;1,3039
+1610;Telmisartana+Anlodipino 80/5mg -;600;Comprimido;3,4270
+1614;Flunitrazepam 2mg -;6720;Comprimido;1,2400
+1615;Nitazoxanida, 20mg/ml pó susp oral 45ml -;1937;Frasco;9,8900
+1618;Ferrocarbonila 120mg+Associações cp revestido -;3500;Comprimido;0,6767
+1619;Ivabradina, Cloridrato 5mg -;800;Comprimido;1,4200
+1621;Ramipril+Hidroclorotiazida 5mg/12,5mg -;12740;Comprimido;1,6139
+1627;Budesonida spray nasal 50mcg/dose 200 doses -;6200;Frasco;24,1275
+1629;Hidróxido Alumínio+Magnésio+Dimeticona200/200/30mg -;43680;Comprimido;0,2750
+1630;Paracetamol+Escopolamina 500/10mg -;27400;Comprimido;0,7350
+1632;Bimatoprosta 0,03%, solução oftálmica 5ml -;149;Frasco;53,9999
+1633;Sertralina, Cloridrato 25mg -;16520;Comprimido;0,8991
+1634;Nepafenaco 1mg/ml sol oftálmica 5ml - ;15;Frasco;74,9900
+1635;Metronidazol+Nistatina cr vag100mg/20.000UI/G, 40g -;2325;Bisnaga;7,0000
+1644;Moxifloxacino+Dexametasona 5mg/1mg/ml sol oft 5ml -;55;Frasco;32,9159
+1647;Salmeterol+Fluticasona 25/250mcg -;75;Frasco;171,5400
+1648;Beclometasona 50mcg spray oral 200 doses -;870;Frasco;29,6500
+1649;Fórmula infantil integral c/ vit + minerais pó 400g;90;Lata;21,8800
+1652;Retinol 50.000UI+Colecalciferol 10.000UI, 10ml -;2606;Frasco;4,2000
+1661;Desvenlafaxina, Succinato 100mg -;18106;Comprimido;0,9959
+1663;Carbonato de Cálcio 600mg+Vitamina D 400UI -;1169180;Comprimido;0,0559
+1665;Metformina+Sitagliptina 500mg/50mg -;900;Comprimido;2,5000
+1667;Qlaira c/ 28cp -;40;Cartela;43,9999
+1673;Modafinila 100mg -;0;Comprimido;5,0000
+1676;Espiramicina 1,5 M.U.I -;6000;Comprimido;3,7499
+1678;Lancetas para teste de glicose -;250000;Unidade;0,0689
+1682;Isossorbida, Mononitrato 10mg injetável -;70;Ampola;2,1800
+1683;Estradiol 1mg+Drospirenona 2mg c/ 28cp -;30;Cartela;93,2199
+1684;Moxifloxacino 5mg/ml sol oft 5ml -;10;Unidade;36,7900
+1688;Agua de Melissa 30ml -;502;Frasco;5,6050
+1690;Otilonio, Brometo 40mg -;1840;Comprimido;1,4000
+1691;Progesterona 200mg -;700;Cápsula;2,8400
+1692;Betametasona Val.2,5mg+Hialuronidase 150UTR pomada - ;20;Bisnaga;88,4200
+1698;Acetilcisteína 20mg/ml xarope 100ml -;3995;Frasco;4,6999
+1701;Linagliptina 5mg -;2500;Comprimido;6,5319
+1702;Pinus pinaster 50mg -;2500;Comprimido;1,6897
+1703;Gestodeno+Etinilestradiol 0,075mg+0,03mg c/21cp -;70;Cartela;17,2499
+1708;Acido Tióctico 600mg HR -;950;Comprimido;4,6899
+1710;Cetirizina 10mg -;550;Comprimido;1,9319
+1711;Metilfenidato, Cloridrato 40mg LA -;800;Cápsula;8,1700
+1718;Fralda infantil XXG -;15000;Unidade;1,0000
+1719;Fralda geriátrica tamanho M -;45000;Unidade;0,9900
+1720;Fralda geriátrica tamanho G -;120000;Unidade;1,2328
+1721;Fralda geriátrica tamanho XG -;120000;Unidade;1,3040
+1727;Olanzapina 2,5mg -;840;Comprimido;5,0000
+1728;Saxagliptina 5mg - ;800;Comprimido;3,5484
+1743;Cloreto de Sódio 0,9% , 10ml -;13000;Ampola;0,3000
+1760;Clorexidina, Digliconato 10mg/ml sol aquosa 1litro - ;20;Frasco;11,9005
+1848;Cetorolaco Trometamol 10mg sublingual -;13500;Comprimido;2,2999
+1849;Dabigatrana, etexilato 150mg -;2240;Comprimido;3,9939
+1851;Enalapril+Hidroclorotiazida 20/12,5mg -;3500;Comprimido;0,2899
+1854;Ferro Polimaltosado 100mg comprimido mastigável -;750;Comprimido;0,6731
+1857;Macrogol3350+Bic Sód+Cl Sód+Cl Potássio 14g sachê -;2300;Unidade;1,5719
+1858;Paroxetina, Cloridrato 25mg -;1950;Comprimido;2,9597
+1861;Quetiapina, Fumarato 200mg -;22000;Comprimido;0,8580
+1871;Lidocaína 2% sem vasoconstritor 20ml -;2420;Frasco;4,6900
+1874;Fralda geriátrica tamanho P -;15000;Unidade;0,9600
+1875;Fenazopiridina 200mg -;3398;Comprimido;0,8399
+1877;Gentamicina+Betametasona oto/oftalmica 20ml -;160;Frasco;20,2199
+1879;Cefazolina, Sódica 1g IV/IM -;330;Ampola;5,9988
+1882;Acido Fólico 0,2mg/ml solução oral 30mL -;2600;Frasco;3,9900
+1884;Manitol 20% 250ml -;936;Frasco;6,3000
+1887;Cloreto de Sódio 20% 10ml -;900;Ampola;0,5300
+1890;Valsartana+Hidroclorotiazida 320/12,5mg -;750;Comprimido;1,3830
+1892;Moxifloxacina, Cloridrato 400mg;325;Comprimido;13,8000
+1894;Dutasterida+Tansulosina 0,5/0,4mg -;20690;Comprimido;2,8400
+1899;Pregabalina 150mg -;72000;Cápsula;0,5050
+1900;Oxicodona 10mg liberação prolongada - ;600;Comprimido;6,9253
+1902;Acido Acetilsalicílico 100mg Protect -;3000;Comprimido;0,4835
+1907;Fórmula a partir 1ano s/lactose baunilha 300a400g - ;0;Unidade;39,0000
+1910;Quetiapina, Fumarato 50mg liberação prolongada -;28000;Comprimido;1,1040
+1912;Donepezila 5mg -;16000;Comprimido;0,1650
+1916;Hipromelose 0,5% colírio 10ml -;120;Frasco;10,3679
+1917;Rivaroxabana 20mg -;50000;Comprimido;2,0033
+1918;Hialuronato Sódico 0,15% colírio 10ml -;80;Frasco;45,9540
+1922;Bromazepam 2,5mg/ml sol oral 20ml -;60;Frasco;20,0000
+1935;Propafenona 150mg -;23000;Comprimido;0,9429
+1938;Gliclazida 60mg liberação prolongada -;77240;Comprimido;0,1939
+1941;Ibuprofeno 200mg -;15000;Comprimido;1,2999
+1953;Zinco, Sulfato 4mg/ml xpe -;720;Frasco;16,5000
+1959;Acido Acetilsalicílico 81mg -;7654;Comprimido;0,3694
+1960;Clomifeno, Citrato 50mg;300;Comprimido;5,0790
+1961;Donepezila 10mg -;14000;Comprimido;0,2500
+1964;Policresuleno+Cinchocaína 50/10mg/g pomad retal 3g -;900;Bisnaga;4,7980
+1972;Levodopa+Benserazida 100/25mg cp dispersível -;48000;Comprimido;1,3961
+1982;Systane UL colírio 5ml -;25;Frasco;43,9999
+1991;Olopatadina, Cloridrato 2mg/ml oftálmica 2,5ml -;37;Frasco;51,6479
+1993;Zuclopentixol Decanoato 200mg/ml IM 1mL - ;120;Ampola;68,0299
+1996;Fluvoxamina, Maleato 50mg;180;Comprimido;2,6760
+1997;Zolpidem 5mg sublingual -;1200;Comprimido;1,0000
+1999;Aripiprazol 10mg -;2320;Comprimido;0,3600
+2004;Metformina+Sitagliptina 1000/50mg -;6000;Comprimido;2,5000
+2006;Aripiprazol 20mg -;920;Comprimido;1,2250
+2007;Rosuvastatina Cálcica 5mg - ;1200;Comprimido;0,3191
+2010;Vitamina D 200UI 20ml -;2500;Frasco;3,8500
+2011;Benfotiamina 150mg - ;1500;Dragea;1,9330
+2015;Indacaterol 300mcg+inalador c/ 30cp -;20;Caixa;113,5200
+2018;Ticagrelor 90mg -;660;Comprimido;3,4700
+2019;Rivaroxabana 15mg -;8522;Comprimido;2,4900
+2023;Brimonidina, Tartarato 1mg/ml colírio 5ml -;47;Frasco;22,9999
+2028;Suplemento completo 1,5kcal/mL a partir 1ano 200ml - ;120;Frasco;10,8300
+2029;Levanlodipino, Besilato 2,5mg -;2300;Comprimido;1,5065
+2030;Metilfenidato, Cloridrato 18mg lib prolongada - ;300;Comprimido;6,3500
+2032;Enoxaparina Sódica 20mg/0,2ml -;100;Ampola;20,6800
+2034;Metformina+Glimepirida 1000/2mg -;300;Comprimido;1,2743
+2035;Anlodipino 5mg+Benazepril 20mg -;600;Comprimido;2,3699
+2038;Dieta ent/oral hipercalór s/lactose1,5kcal/ml 1L -;255;Frasco;19,7600
+2039;Cloreto de Sódio 3% spray nasal, 50ml -;645;Frasco;5,2941
+2040;Fexofenadina 60mg+Pseudoefedrina 120mg -;2060;Comprimido;3,9540
+2054;Pramipexol 0,75mg ER -;2160;Comprimido;1,8999
+2060;Codeína 30mg -;2054;Comprimido;0,8300
+2063;Ibuprofeno 400mg -;13200;Comprimido;0,4688
+2065;Saccharomyces boulardi 200mg -;16000;Cápsula;0,9088
+2066;Teste rápido gravidez sensibilidade 25mUi/ml -;4880;Unidade;1,0000
+2067;Ibuprofeno 100mg/ml, fr 20ml -;17000;Frasco;1,7000
+2068;Lidocaína 1% com vasocontritor, 20ml -;180;Frasco;8,5000
+2073;Enoxaparina Sódica 60mg/0,6ml -;20;Frasco;31,4200
+2074;Bimatoprosta 0,01% 3ml -;25;Frasco;98,0519
+2075;Escitalopram 20mg/ml sol oral 15ml -;190;Frasco;10,3000
+2080;Metenamina 120mg+Metiltininio 20mg -;2000;Comprimido;1,4603
+2082;Mesalazina 1200mg - ;600;Comprimido;6,8200
+2083;Trometamol, Cetorolaco 5mg/ml 5ml sol. oft. -;310;Frasco;24,9999
+2087;Bisoprolol, Fumarato 10mg -;1200;Comprimido;0,1799
+2089;Valsartana+Hidroclorotiazida 320/25mg -;7000;Comprimido;1,3829
+2091;Rivaroxabana 10mg -;7500;Comprimido;2,8400
+2095;Dimenidrinato+Piridoxina 50mg/50mg/ml 1ml I.M -;5000;Ampola;1,7800
+2096;Gestodeno+Etinilestradiol 60mcg+15mcg c/28 cp -;10;Cartela;10,9200
+2098;Clindamicina 600mg/4ml IM/EV -;270;Ampola;5,2000
+2101;Gatifloxacino+Prednisolona 3/10mg/ml Oftálmica 3ml - ;360;Frasco;29,0000
+2102;Midazolam 1mg/ml 5ml inj -;100;Ampola;4,7000
+2103;Polivitaminico+Polimineral infantil susp oral120ml - ;400;Frasco;6,8000
+2105;Dimenidrinato+Piridoxina 25/5mg/ml Sol.Oral 20ml -;4000;Frasco;2,3799
+2107;Suplemento nutricional pó sem sabor senior 300g á 400g;60;Lata;127,2800
+2113;Carbonato de Cálcio 500mg+Vitamina D 400UI -;661700;Comprimido;0,0499
+2116;Levodopa+Benserazida 200/50mg DR liberação dupla -;3700;Comprimido;2,1060
+2122;Clobetasol solução capilar 0,5mg/g, 50g -;50;Frasco;49,8150
+2127;Cromoglicato Dissódio 2% Colírio 5ml -;110;Frasco;14,9999
+2128;Nistatina+Óxido de Zinco pomada 60g -;1700;Bisnaga;3,8799
+2130;Omeprazol, Magnésio 10mg -;1120;Comprimido;3,7400
+2132;Calcipotriol 50mcg+Betametasona 0.5mg pomada 30g -;10;Bisnaga;94,1100
+2133;Suplemento nutricional infantil pó 350g baunilha -;24;Frasco;14,7000
+2135;Salicilato metila+Cânfora+Mentol aerossol ;20;Unidade;12,4199
+2136;Mirtazapina 45mg ODT orodispersível -;300;Comprimido;5,0199
+2140;Carbonato de Cálcio 1250mg (CaElementar 500mg) -;170500;Comprimido;0,0499
+2141;Ceftriaxona 500mg/ml IM -;2500;Ampola;7,2489
+2142;Clorexidina 0,12% colutório 250ml -;530;Frasco;9,9900
+2144;Dipirona 50mg/ml 100ml -;725;Frasco;5,6700
+2151;Meloxicam 15mg 1,5ml IM -;900;Ampola;4,4399
+2152;Metformina, Cloridrato 750mg liberação controlada - ;2940;Comprimido;0,5970
+2153;Metilfenidato, Cloridrato 36mg lib prolongada - ;650;Cápsula;8,6300
+2155;Curcuma longa ext. seco 250mg -;1500;Cápsula;1,3163
+2157;Pramipexol 0,375mg ER - ;1880;Comprimido;0,9299
+2160;Finasterida 5mg+Doxazosina 2mg -;5000;Comprimido;2,1199
+2167;Metilfenidato, Cloridrato 10mg LA -;0;Cápsula;2,6000
+2168;Ramipril+Anlodipino 10/10mg - ;2100;Cápsula;1,5999
+2172;Aripiprazol 15mg -;1250;Comprimido;0,4616
+2174;Solifenacina, Succinato 10mg -;450;Comprimido;2,7299
+2175;Solifenacina, Succinato 5mg -;360;Comprimido;2,2763
+2176;Fluticasona+Vilanterol 100/25mcg 30 doses -;45;Frasco;127,8700
+2178;Estradiol 1,5mg+Ac. Nomegestrol 2,5mg c/ 28cp -;12;Cartela;37,7900
+2184;Nimesulida (betaciclodextrina) 400mg -;8000;Comprimido;3,4790
+2190;Prednisolona 20mg -;50500;Comprimido;0,4840
+2192;Paroxetina, Cloridrato 12,5mg liberação modificada;300;Comprimido;1,9460
+2194;Fluvoxamina, Maleato 100mg -;1590;Comprimido;2,5312
+2195;Escitalopram, Oxalato 15mg -;10448;Comprimido;0,3800
+2196;Fentanila, Citrato 78,5 mcg/ml inj 2ml -;245;Ampola;4,8900
+2197;Stryphnodendron adstringens 60mg/g pomada 20gr -;232;Bisnaga;57,9499
+2202;Cobalamina cronoativa 5000mcg 2,5ml -;20;Ampola;15,1499
+2203;Cálcio Citrato Maleato 250mg+Vitamina D3 2,5mcg -;300;Comprimido;1,4051
+2204;Domperidona 1mg/ml susp 60ml -;200;Frasco;10,0000
+2205;Fampridina 10mg liberação prolongada -;700;Comprimido;17,9000
+2206;Fingolimode 0,5mg -;74;Cápsula;100,0000
+2207;Fluticasona 50mcg Diskus via oral 60 doses - ;0;Frasco;150,0000
+2209;Metformina+Linagliptina 850mg/2,5mg -;780;Comprimido;3,2230
+2210;Neomicina+Bacitracina pomada 50g -;700;Bisnaga;10,6999
+2215;Cloreto de Sódio+Benzalcônio 30ml nasal infantil -;10793;Frasco;0,7400
+2217;Levodopa+Benserazida 100/25mg HBS lib. prolongada -;30200;Comprimido;1,5360
+2218;Formoterol,Fum 12mcg refil c/ 30 cps -;1800;Frasco;12,5000
+2220;Dexametasona 1mg/g pomada oftálmica 3,5g -;50;Bisnaga;23,8440
+2222;Bronfeniramina 4mg/5ml+Fenilefrina 5mg/5ml 100ml -;560;Frasco;6,5700
+2224;Pioglitazona, Cloridrato 45mg -;1290;Comprimido;4,9999
+2226;Zolpidem 12,5mg liberação prolongada - ;750;Comprimido;3,3299
+2227;Alogliptina, Benzoato 25mg -;3240;Comprimido;3,0699
+2228;Glicopirrônio, Brometo 50mcg c/30 caps+inalador -;50;Frasco;180,0000
+2229;Beclometasona+Formoterol 100/6mcg 120ds+inal oral - ;40;Frasco;121,5900
+2230;Colageno tipo II não hidrolisado 40mg -;2500;Cápsula;0,8799
+2234;Delapril 30mg+Manidipino 10mg -;0;Comprimido;3,2400
+2238;Passiflora incarnata 260mg -;45000;Comprimido;0,4089
+2240;Colecalciferol 50.000UI comprimido -;17720;Comprimido;1,3699
+2244;Suxametônio, Cloreto 100mg IV/IM -;25;Ampola;29,9000
+2245;Carbonato de Cálcio 500mg+Vitamina D 200UI -;200000;Comprimido;0,0499
+2249;Dapaglifozina 10mg -;15000;Comprimido;2,2060
+2250;Metformina+Dapaglifozina 1000/5mg XR -;12000;Comprimido;2,6460
+2251;Metformina+Dapaglifozina 1000/10mg XR - ;480;Comprimido;5,2940
+2253;Nafazolina+Zinco,Sulf 0,15/0,3mg/ml oftálmica 20ml -;150;Frasco;4,1840
+2260;Metformina+Alogliptina 850mg/12,5mg -;2620;Comprimido;1,6299
+2261;Empagliflozina 25mg -;9330;Comprimido;6,4164
+2262;Nitazoxanida 500mg -;15000;Comprimido;2,1239
+2263;Cloreto de Potássio 19,1%, 10ml -;200;Ampola;0,3960
+2264;Difenidramina, Cloridrato 50mg/ml IM/IV 1ml -;30;Ampola;17,6200
+2265;Irbesartana+Hidroclorotiazida 300/12.5mg -;0;Comprimido;2,1399
+2267;Cloreto de Sódio 10% 10ml -;240;Ampola;0,6000
+2268;Prucaloprida, Succinato 2mg -;180;Comprimido;8,2599
+2271;Diosmina 900mg+Hesperidina 100mg -;24330;Comprimido;0,8300
+2272;Cálcio, Dobesilato 500mg -;2500;Comprimido;2,0479
+2273;Metformina+Alogliptina 1000mg/12,5mg -;540;Comprimido;1,7899
+2275;Policresuleno 360mg/ml solução ginecológica 12ml -;20;Frasco;22,2000
+2276;Promestrieno 10mg/g 30g c/20 aplic ginecológicos -;60;Bisnaga;34,6399
+2280;Candesartana+Felodipino 16/5mg -;0;Comprimido;2,5310
+2281;Drospirenona 3mg+Etinilestradiol 0,03mg c/ 28cp -;14;Cartela;50,9039
+2282;Dabigatrana, etexilato 110mg -;1620;Cápsula;3,9939
+2283;Atropina, Sulfato 1% sol oftálmica 5ml -;45;Frasco;8,9499
+2285;Colageno, Peptideos sabor laranja sachê 11g -;2280;Envelope;1,7123
+2286;Colestiramina sachê 4g -;370;Envelope;7,0000
+2288;Ciprofloxacino+Hidrocortisona 2/10mg/ml oto 5ml -;300;Frasco;29,9300
+2289;Colecalciferol 7.000UI comprimido -;64436;Comprimido;0,4350
+2290;Lisdexanfetamina, Dimesilato 30mg -;300;Cápsula;10,5800
+2291;Levetiracetam 750mg -;1380;Comprimido;2,7591
+2292;Sulfametoxazol+Trimetoprima 800+160mg -;4100;Comprimido;0,3719
+2294;Colageno, Peptideos+Vit A,C, E+zinco+manganês 11g ;1500;Envelope;2,7323
+2296;Fenazopiridina 100mg -;3700;Comprimido;0,4999
+2297;Testosterona, Cipionato 100mg/ml 2mL;0;Ampola;55,0000
+2298;Colagenase 1,2U/g pomada 30g -;450;Bisnaga;19,3036
+2299;Rivastigmina 6mg -;300;Comprimido;3,7000
+2300;Lisdexanfetamina, Dimesilato 50mg -;400;Cápsula;12,8400
+2301;Colageno hidrolisado pó sachê 4g -;300;Envelope;1,9300
+2302;Prucaloprida, Succinato 1mg -;0;Comprimido;7,1399
+2303;Mesalazina 500mg comprimido liberação prolongada -;600;Comprimido;5,5299
+2304;Olmesartana+Anlodipino 40mg/5mg -;3000;Comprimido;1,4500
+2305;Insulina Glargina 100UI/ml 3ml c/ caneta desc. -;399;Unidade;33,6100
+2306;Glicopirrônio+Indacaterol 50/110mcg 30cp+inalador -;37;Frasco;227,8500
+2307;Sulfametoxazol+Trimetoprima 80mg/16mg/ml 100ml;582;Frasco;9,4500
+2308;Omeprazol 20mg embalado em blister;4000000;Cápsula;0,0989
+2309;Pitavastatina 2mg comprimido revestido -;840;Comprimido;1,5899
+2310;Mirtazapina 30mg orodispersível -;540;Comprimido;1,9999
+2311;Lisdexanfetamina, Dimesilato 70mg -;120;Cápsula;12,8400
+2313;Olmesartana+Hidroclorotiazida 40mg/12,5mg -;7440;Comprimido;0,8199
+2314;Zuclopentixol 10mg -;0;Comprimido;1,6899
+2315;Luteína 10mg+Zeaxantina 2mg+Associações -;780;Cápsula;1,9000
+2317;Metformina+Sitagliptina 1000/100mg -;800;Comprimido;6,8800
+2318;Valsartana+Hidroclorotiazida + Anlodipino 160/12,5/5 -;1000;Comprimido;4,1327
+2319;Umeclidínio+Vilanterol 62,5/25mcg 30 doses -;38;Frasco;238,5960
+2320;Levofloxacino 750mg -;5860;Comprimido;4,3500
+2321;Apixabana 2,5mg -;2000;Comprimido;3,9799
+2322;Tioconazol+Tinidazol 20/30mg/g 35g c/7aplic ginec -;350;Bisnaga;14,3500
+2325;Alogliptina+Pioglitazona 25/30mg -;3060;Comprimido;4,9999
+2326;Cálcio500mg+VitD3 200UIs/açúcar tablete mastigável -;300;Unidade;1,3523
+2327;Oxido de zinco+Cânfora+Cl Benzalcônio pomada 30g -;20;Unidade;13,5990
+2330;Alogliptina+Pioglitazona 25/15mg -;870;Comprimido;5,0199
+2332;Colecalciferol 10000UI/ml 10ml -;1500;Frasco;15,8000
+2334;Viminol 70mg -;0;Cápsula;3,7990
+2335;Levomentol+Cânf+Óleo eucalipto 28,2/52,6/13,3 30g -;30;Unidade;25,7100
+2336;Claritromicina 500mg injetável IV -;70;Ampola;50,0000
+2337;Acetilcisteína 100mg/ml 3ml EV/Inalatória -;150;Ampola;4,5100
+2338;Benzilpenicilina Benz 1.200000UI 4mL IM diluída -;6000;Ampola;6,9000
+2339;Tiotrópio+Olodaterol 2,5/2,5mcg 4mL c/60 AC -;28;Frasco;240,4100
+2340;Formoterol+Fluticasona 12/250mcg c/60 sem inalador -;10;Frasco;62,1999
+2341;Didrogesterona 10mg c/28 comprimidos revestidos -;25;Cartela;57,8999
+2342;Rasagilina 1mg - ;0;Comprimido;5,1907
+2344;Dexlansoprazol 60mg liberação retardada - ;1800;Cápsula;2,5589
+2345;Empagliflozina+Linagliptina 25/5mg - ;5340;Comprimido;10,1069
+2346;Fluormetolona, Acetato 1mg/ml sol oftálmica 5ml - ;17;Frasco;22,4900
+2347;Buprenorfina 10mg adesivo transdérmico - ;50;Unidade;65,6800
+2348;Levetiracetam 250mg - ;3200;Comprimido;0,8099
+2349;Levotiroxina Sódica 137mcg - ;450;Comprimido;0,8166
+2350;Solifenacina+Tansulosina 6/0,4mg - ;450;Comprimido;5,2299
+2351;Acido Ascórbico 1g+Zinco 10mg efervescente - ;8000;Comprimido;0,7595
+2352;Levotiroxina Sódica 38mcg - ;23400;Comprimido;0,2682
+2353;Insulina Liraglutida 6mg/ml3ml c/sistema aplicação - ;60;Unidade;213,6000
+2354;Anlodipino+Perindopril, Arginina 5/7mg - ;1500;Comprimido;1,3900
+2355;Passiflora incarnata 182,93mg - ;1000;Cápsula;0,4775
+2356;Pramipexol 1,50 mg - ;1080;Comprimido;4,9900
+2357;Olmesartana+Anlodipino 20mg/5mg - ;1200;Comprimido;1,6500
+2358;Alendronato, Sódio+Colecalciferol 70mg/5.600UI - ;300;Comprimido;29,9723
+2362;Ezetimiba+Rosuvastatina Cálcica 10/10mg - ;300;Comprimido;1,8767
+2363;Hidroxiureia 500mg - ;400;Cápsula;2,0000
+2364;Hialuronato Sódico 1mg/ml colírio 10ml - ;40;Frasco;47,8400
+2365;Castanha da Índia 500mg - ;6000;Comprimido;0,3650
+2366;Pycnogenol+Centella+Castanha+Calendula+Mentol200ml - ;0;Frasco;47,0970
+2368;Levotiroxina Sódica 62,5mcg - ;1500;Comprimido;0,4989
+2369;Fluticasona 250mcg via oral 60 doses - ;30;Frasco;86,9300
+2370;Colecalciferol 1.000UI - ;3450;Comprimido;0,1880
+2371;Valaciclovir, Cloridrato 500mg - ;370;Comprimido;4,8400
+2372;Valsartana+Hidroclorotiazida+Anlodipino 320/25/10 - ;0;Comprimido;4,5550
+2373;Metilfenidato, Cloridrato 54mg lib prolongada - ;500;Comprimido;8,3600
+2374;Insulina Degludeca+Liraglutida100/3,6mg/ml3ml+sist - ;60;Unidade;195,0000
+2375;Acido Ursodesoxicólico, 300mg - ;600;Comprimido;4,3500
+2377;Dipirona 1g - ;33300;Comprimido;0,9239
+2378;Lamotrigina 100mg comprimido para suspensão - ;600;Comprimido;2,1240
+2379;Glicopirrônio+Beclo+Formoterol 12,5/100/6mcg 120ds - ;25;Frasco;249,8000
+2380;Levetiracetam 100mg/ml solução oral 100ml - ;94;Frasco;49,9999
+2381;Apixabana 5mg - ;1820;Comprimido;3,9799
+2382;Dulaglutida 1,5mg/0,5ml caneta - ;34;Unidade;126,9999
+2383;Fremanezumabe 225mg/1,5ml seringa - ;6;Unidade;2.214,3012
+2384;Valsartana+Sacubitril 51/49mg - ;360;Comprimido;3,4300
+2386;Dexclorfeniramina 6mg repetabs - ;500;Dragea;1,7499
+2387;Donepezila 10mg+Memantina 10mg - ;900;Comprimido;4,8630
+2388;Levetiracetam 500mg comprimido revestido - ;600;Comprimido;2,1499
+2389;Lacosamida 100mg comprimido revestido - ;600;Comprimido;7,1661
+2390;Anlodipino+Losartana 5mg/50mg - ;600;Comprimido;1,9999
+2391;Valsartana+Sacubitril 26/24mg - ;1800;Comprimido;3,4300
+2392;Aripiprazol 30mg - ;750;Comprimido;1,8330
+2393;Arnica montana 200mg/g gel 30g - ;320;Bisnaga;23,9979
+2394;Gentiana lutea+Aloe ferox 4mg/0,18ml/ml 100ml - ;200;Frasco;24,2900
+2395;Acido Ascórbico 1g efervescente - ;4300;Comprimido;0,5300
+2397;Bromexina 1,6 mg/ml xpe adulto 120ml - ;1620;Frasco;5,0699
+2399;Insulina Lispro 100UI/ml, 3ml caneta - ;213;Unidade;37,9999
+2400;Bronfeniramina 2mg/5ml+Fenilefrina 5mg/5ml 120ml - ;200;Frasco;15,0599
+2402;Aripiprazol 1mg/mL susp oral 150mL - ;20;Frasco;149,0300
+2403;Mirabegrona 50mg liberação prolongada - ;180;Comprimido;7,7860
+2404;Edoxabana 60mg comprimido revestido - ;1010;Comprimido;6,0400
+2405;Rotigotina 13,5mg (6mg/24h) adesivo transdérmico - ;168;Unidade;16,1800
+2406;Perindopril+Indapamida+Anlodipino 10/2,5/5mg - ;600;Comprimido;2,9399
+2407;Colageno, Peptideos+Minerais+Vit E sachê 11,5g - ;350;Envelope;5,5211
+2408;Amoxicilina 1g+Clav potássio 200mg pó injetável - ;60;Unidade;33,0000
+2409;Voriconazol 200mg comprimido revestido - ;354;Comprimido;22,9999
+2410;Pitavastatina 4mg comprimido revestido - ;480;Comprimido;4,9998
+2411;Valeriana officinalis+Humulus lupulus 250/60mg - ;2700;Comprimido;2,3750
+2412;Etomidato 2mg/ml 10ml IV - ;30;Ampola;16,7600
+2413;Ondansetrona 2mg/ml 2ml (4mg) IV/IM - ;2830;Ampola;2,9000
+2416;Ondansetrona 4mg comprimido orodispersível - ;42600;Comprimido;0,8199
+2417;Fralda geriátrica tamanho XXG - ;35000;Unidade;1,1800
+2418;Fralda infantil tamanho XG - ;5000;Unidade;0,6800
+2419;Fralda infantil tamanho G - ;6000;Unidade;0,6400
+2420;Fralda infantil tamanho M - ;6000;Unidade;0,5400
+2421;Fralda infantil tamanho P - ;5000;Unidade;0,4559
+2422;Lubiprostona 8mcg - ;900;Cápsula;1,7699
+2423;Teofilina 200mg liberação controlada - ;1700;Cápsula;0,7846
+2424;Zinco Quelado 30mg - ;4000;Cápsula;0,3000
+2426;Ácido Tranexâmico 250mg;1600;Comprimido;3,4500
+2427;Dulaglutida 0,75mg/0,5ml caneta;34;Unidade;105,5000
+2428;Deflazacorte 6mg;360;Comprimido;2,5745
+2429;Ezetimiba+Rosuvastatina Cálcica 10/20mg;540;Comprimido;2,7500
+2430;Levotiroxina Sódica 37,5mcg;1500;Comprimido;0,2790
+2431;Levotiroxina Sódica 12,5mcg;600;Comprimido;0,0920
+2432;Rocurônio, Brometo 10mg/ml 5mL;10;Ampola;59,0000
+2433;Insulina Degludeca 100UI/mL 3ml caneta;12;Unidade;132,9900
+2434;Candesartana 32mg;900;Comprimido;1,7860
+2435;Cloreto de Sódio 0,9% 360graus sem conservante a partir de 0;300;Unidade;25,5500
+2436;Cloreto de Sódio 0,9% sem conservante spray nasal 50ml;450;Unidade;25,5500
+2437;Omeprazol 40mg;500;Cápsula;1,8300
+2438;Lubrificante Íntimo base aquosa sachê 5g;9400;Unidade;0,7900
+2439;Imiquimode 50mg/g creme sachê 0,25g;534;Unidade;14,3900
+2440;Umeclidínio, Brometo 62,5mcg 30 doses;10;Unidade;147,0000
+2441;Lidocaína 2% com vasoconstritor carpule 1,8ml;900;Unidade;3,9600
+2442;Acido Ursodesoxicólico 50mg;180;Comprimido;1,6200
+2443;Cianocobalamina 500mcg/ml IM 2mL;1200;Ampola;2,8800
+2444;Lurasidona, cloridrato 80mg;180;Comprimido;10,4700
+2445;Bimatoprosta 0,01%+Brimonidina 0,15%+Timolol 0,5% 5ml;10;Frasco;173,7000
+2446;Cefadroxila 500mg;604;Cápsula;3,4300
+2447;Magnésio, Sulfato 10% sol inj 10ml;200;Ampola;0,3000
+2448;Polivitamínico associado com Poliminerais+Ômega 3 cápsulas m;300;Cápsula;2,7000
+2449;Metaraminol, Hemitartarato 10mg/ml 1ml IM/IV;25;Ampola;7,0700
+2450;Ciproeptadina 0,8mg/ml+Cobamamida 0,2mg/ml 100ml;50;Frasco;14,6200
+2451;HCG (Gonadotrofina Coriônica Humana) 125UI spray nasal 12ml;10;Frasco;151,2000
+2452;Azitromicina suspensão 1500mg;150;Frasco;59,7100
+2453;Nafazolina, Cloridrato 0,5mg/ml sol nasal 30ml;60;Frasco;6,2900

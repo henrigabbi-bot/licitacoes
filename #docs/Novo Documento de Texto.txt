@@ -1,0 +1,13 @@
+CREATE TABLE notasano(		 
+	chavedeacesso VARCHAR(44) primary key,
+	numeronf int(10),	
+	cnpj varchar(14),
+	valornf double,	
+	ncaixas int(10),
+	dataemissao  date   not null,
+	peso double,	
+	foreign key(cnpj) 
+		references cliente(cnpj)
+			on delete cascade
+			on update cascade
+);
