@@ -1,213 +1,137 @@
 
 
-CREATE DATABASE licitacoes
+C-- =========================
+-- CRIAÇÃO DO BANCO
+-- =========================
+CREATE DATABASE IF NOT EXISTS licitacoes
 CHARACTER SET utf8mb4
 COLLATE utf8mb4_general_ci;
 
-CREATE TABLE admin (
-	id	  int		  auto_increment primary key,
-	email varchar(50) not null unique,
-	senha char(32)    not null
-	
-);
+USE licitacoes;
 
-CREATE TABLE pessoas (	
-	cpf varchar(11) primary key, 
-	nome varchar(50) not null,	
-	rg varchar (10) not null,
-	tipo varchar (50) not null,
-	oab varchar (50)
-)ENGINE=InnoDB
-CHARACTER SET utf8mb4
-COLLATE utf8mb4_general_ci;
+-- =========================
+-- ORDENADOR DE LICITAÇÕES
+-- =========================
+CREATE TABLE ordenador (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  nome VARCHAR(150) NOT NULL,
+  cargo VARCHAR(100),
+  cpf VARCHAR(11)
+) ENGINE=InnoDB;
 
-CREATE TABLE produto (			 
-	codprod	 int(6) auto_increment primary key,
-	descricao varchar(60) not null,	
-	unidade	 Varchar(30) not null	
-)ENGINE=InnoDB
-CHARACTER SET utf8mb4
-COLLATE utf8mb4_general_ci;
+-- =========================
+-- JURÍDICO DE LICITAÇÕES
+-- =========================
+CREATE TABLE juridico (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  nome VARCHAR(150) NOT NULL,
+  oab VARCHAR(20),
+  cargo VARCHAR(100)
+) ENGINE=InnoDB;
 
-CREATE TABLE cliente (	 
-	id		int auto_increment primary key,
-	cnpj  varchar(14) primary key, 
-	nomecliente varchar (250),
-	nomeprefeito varchar (250),
-	cpf varchar(14),
-	
-);
+-- =========================
+-- FORNECEDORES
+-- =========================
+CREATE TABLE fornecedor (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  razao_social VARCHAR(200) NOT NULL,
+  nome_fantasia VARCHAR(200),
+  cnpj VARCHAR(14) NOT NULL,
+  endereco VARCHAR(250),
+  telefone VARCHAR(30),
+  email VARCHAR(150)
+) ENGINE=InnoDB;
 
-CREATA TABLE contratoderateio (
-	id int auto_increment primary key,
-	taxamedicamentos  double,	
-	taxacisa  double,	
-	taxaceo double,	
-	cnpj 		varchar(14)
-	foreign key(cnpj) 
-		references cliente(cnpj)
-			on delete restrict
-			on update cascade
+-- =========================
+-- PRODUTOS
+-- =========================
+CREATE TABLE produto (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  descricao VARCHAR(250) NOT NULL,
+  unidade VARCHAR(30),
+  codigo VARCHAR(50)
+) ENGINE=InnoDB;
 
-);
+-- =========================
+-- LICITAÇÕES
+-- =========================
+CREATE TABLE licitacao (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  numero VARCHAR(30) NOT NULL,
+  ano INT NOT NULL,
+  modalidade VARCHAR(50),
+  objeto TEXT NOT NULL,
+  data_abertura DATE,
+  status VARCHAR(30),
+  id_ordenador INT,
+  id_juridico INT,
+  CONSTRAINT fk_licitacao_ordenador
+    FOREIGN KEY (id_ordenador) REFERENCES ordenador(id),
+  CONSTRAINT fk_licitacao_juridico
+    FOREIGN KEY (id_juridico) REFERENCES juridico(id)
+) ENGINE=InnoDB;
 
+-- =========================
+-- REPRESENTANTE LEGAL
+-- =========================
+CREATE TABLE representante_legal (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  id_fornecedor INT NOT NULL,
+  nome VARCHAR(150) NOT NULL,
+  cpf VARCHAR(11) NOT NULL,
+  cargo VARCHAR(100),
+  telefone VARCHAR(30),
+  email VARCHAR(150),
+  CONSTRAINT fk_rep_fornecedor
+    FOREIGN KEY (id_fornecedor) REFERENCES fornecedor(id)
+) ENGINE=InnoDB;
 
-CREATE TABLE contratodeprograma (
-	id		int,
-	programamedicamentos  double,	
-	programacisa  double,	
-	programaceo double,	
-	cnpj 		varchar(14)
-	foreign key(cnpj) 
-		references cliente(cnpj)
-			on delete restrict
-			on update cascade
+-- =========================
+-- ITENS DA LICITAÇÃO
+-- =========================
+CREATE TABLE item_licitacao (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  id_licitacao INT NOT NULL,
+  id_produto INT NOT NULL,
+  quantidade INT NOT NULL,
+  valor_estimado DECIMAL(10,2),
+  id_fornecedor_vencedor INT,
+  valor_homologado DECIMAL(10,2),
+  CONSTRAINT fk_item_licitacao
+    FOREIGN KEY (id_licitacao) REFERENCES licitacao(id),
+  CONSTRAINT fk_item_produto
+    FOREIGN KEY (id_produto) REFERENCES produto(id),
+  CONSTRAINT fk_item_fornecedor
+    FOREIGN KEY (id_fornecedor_vencedor) REFERENCES fornecedor(id)
+) ENGINE=InnoDB;
 
-);
+-- =========================
+-- CONTRATOS
+-- =========================
+CREATE TABLE contrato (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  id_licitacao INT NOT NULL,
+  id_fornecedor INT NOT NULL,
+  numero VARCHAR(30),
+  data_inicio DATE,
+  data_fim DATE,
+  valor_total DECIMAL(12,2),
+  CONSTRAINT fk_contrato_licitacao
+    FOREIGN KEY (id_licitacao) REFERENCES licitacao(id),
+  CONSTRAINT fk_contrato_fornecedor
+    FOREIGN KEY (id_fornecedor) REFERENCES fornecedor(id)
+) ENGINE=InnoDB;
 
-CREATE TABLE fornecedor (	 
-	cnpj  varchar(14) primary key, 
-	nomefornecedor varchar (250) not null,
-	cidade varchar (50),
-	estado char (2),
-	endereco varchar (100),
-	bairro varchar (30),
-	cep varchar (10),
-	cpf varchar(11),
-	foreign key(cpf) 
-		references pessoas(cpf)	
-	                on delete set null		
-			on update cascade
- 	
-);
-
-
-CREATE TABLE licitacao(	
-	codlic	 int  auto_increment primary key,
-	npregao varchar(10) not null,
-	nprocesso varchar(10) not null,	
-	datahomologacao    date	   not null,	
-	objeto varchar(2048) not null,
-	cpf varchar(11) not null,
-	cpf2 varchar(11) not null,
-	foreign key(cpf) 
-		references pessoas(cpf)			
-			on update cascade,
-	foreign key(cpf2) 
-		references pessoas(cpf)			
-			on update cascade
-	
-);
-
-
-CREATE TABLE pedido(	 	
-	codlic int,
-	npedido int,	
-	data    date	   not null,
-    CONSTRAINT pedidon PRIMARY KEY (codlic, npedido),
-	foreign key(codlic) 
-		references licitacao(codlic)
-			on delete cascade
-);
-
-CREATE TABLE pedidodecompra(
-	id	     int		 auto_increment primary key,
-	idlic  int not null,
-	pedido int,
-	cnpj varchar(14),	
-	codprod int (6),	
-	quantidade int (7),
-	foreign key(idlic) 
-		references licitacao(codlic)
-			on delete cascade
-			on update cascade,
-	foreign key(codprod)
-		references produto(codprod)
-			on delete restrict
-			on update cascade,
-	foreign key(cnpj) 
-		references cliente(cnpj)
-			on delete restrict
-			on update cascade
-);
-
-CREATE TABLE pedidodecompra2(
-	id	     int		 auto_increment primary key,
-	idlic  int not null,
-	pedido int,
-	cnpj varchar(14),	
-	codprod int (6),	
-	quantidade int (7),
-	vlrunitario double,	
-	foreign key(idlic) 
-		references licitacao(codlic)
-			on delete cascade
-			on update cascade,
-	foreign key(codprod)
-		references produto(codprod)
-			on delete restrict
-			on update cascade,
-	foreign key(cnpj) 
-		references cliente(cnpj)
-			on delete restrict
-			on update cascade
-);
-
-CREATE TABLE resultadolicitacao(
-	id	     int		 auto_increment primary key,
-	idlic  int not null,
-	item int not null,		
-	codprod INT NOT NULL,
-	marca varchar (250) not null,		
-	quantidade int not null,
-	vlrunitario DECIMAL(10,4) NOT NULL	
-	cnpj varchar(14) not null,	
-	foreign key(idlic) 
-		references licitacao(codlic)
-			on delete cascade
-			on update cascade,
-	foreign key(codprod)
-		references produto(codprod)
-			on delete restrict
-			on update cascade,
-	foreign key(cnpj) 
-		references fornecedor(cnpj)
-			on delete restrict
-			on update cascade
-
-
-)ENGINE=InnoDB
-CHARACTER SET utf8mb4
-COLLATE utf8mb4_general_ci;
-
-
-CREATE TABLE processoadministrativo(	
-	idprocesso int  auto_increment UNIQUE,
-	modalidade varchar(255) not null,
- 	fundamentacaolegal varchar (255),
-	objeto varchar(2048) not null,
-	nlicitacao int (3) not null,
-	nprocesso int (3) UNIQUE not null,
-	dataprocesso  date,
-	anoprocesso int (4) not null,
-	anolicitacao int (4) not null,	
-	valorestimado double,	
-
-	PRIMARY KEY (modalidade,nlicitacao,anolicitacao)
-
-	
-	
-);
-
-
-INSERT INTO admin (
-	email,
-	senha
-) VALUES (
-	'admin@admin.com',
-	MD5('admin')
-);
-
-
-
-	
+-- =========================
+-- ORDEM DE COMPRA
+-- =========================
+CREATE TABLE ordem_compra (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  id_contrato INT NOT NULL,
+  numero VARCHAR(30),
+  data_emissao DATE,
+  valor_total DECIMAL(12,2),
+  status VARCHAR(30),
+  CONSTRAINT fk_ordem_contrato
+    FOREIGN KEY (id_contrato) REFERENCES contrato(id)
+) ENGINE=InnoDB;
